@@ -1,0 +1,436 @@
+§ 16.213   Discovery.(a) Discovery is limited to requests for admissions, requests for production of documents, interrogatories, and depositions as authorized by § 16.215.
+(b) The hearing officer shall limit the frequency and extent of discovery permitted by this section if a party shows that - 
+(1) The information requested is cumulative or repetitious;
+(2) The information requested may be obtained from another less burdensome and more convenient source;
+(3) The party requesting the information has had ample opportunity to obtain the information through other discovery methods permitted under this section; or
+(4) The method or scope of discovery requested by the party is unduly burdensome or expensive.
+
+
+§ 21.183   Issue of standard airworthiness certificates for normal, utility, acrobatic, commuter, and transport category aircraft; manned free balloons; and special classes of aircraft.(a) New aircraft manufactured under a production certificate. An applicant for a standard airworthiness certificate for a new aircraft manufactured under a production certificate is entitled to a standard airworthiness certificate without further showing, except that the FAA may inspect the aircraft to determine conformity to the type design and condition for safe operation. 
+(b) New aircraft manufactured under type certificate. An applicant for a standard airworthiness certificate for a new aircraft manufactured under a type certificate is entitled to a standard airworthiness certificate upon presentation, by the holder or licensee of the type certificate, of the statement of conformity prescribed in § 21.130 if the FAA finds after inspection that the aircraft conforms to the type design and is in condition for safe operation. 
+(c) Import aircraft. An applicant for a standard airworthiness certificate for an import aircraft is entitled to that certificate if - 
+(1) The aircraft is type certificated in accordance with § 21.21 or § 21.29 and produced under the authority of another State of Manufacture;
+(2) The State of Manufacture certifies, in accordance with the export provisions of an agreement with the United States for import of that aircraft, that the aircraft conforms to the type design and is in condition for safe operation; and
+(3) The FAA finds that the aircraft conforms to the type design and is in condition for safe operation.
+(d) Used aircraft and surplus aircraft of the U.S. Armed Forces. An applicant for a standard airworthiness certificate for a used aircraft or surplus aircraft of the U.S. Armed Forces is entitled to a standard airworthiness certificate if - 
+(1) The applicant presents evidence to the FAA that the aircraft conforms to a type design approved under a type certificate or a supplemental type certificate and to applicable Airworthiness Directives;
+(2) The aircraft (except an experimentally certificated aircraft that previously had been issued a different airworthiness certificate under this section) has been inspected in accordance with the performance rules for 100-hour inspections set forth in § 43.15 of this chapter, or an equivalent performance standard acceptable to the FAA, and found airworthy by - 
+(i) The manufacturer; 
+(ii) The holder of a repair station certificate as provided in Part 145 of this chapter; 
+(iii) The holder of a mechanic certificate as authorized in Part 65 of this chapter; or 
+(iv) The holder of a certificate issued under part 121 of this chapter, and having a maintenance and inspection organization appropriate to the aircraft type; and 
+(3) The FAA finds after inspection, that the aircraft conforms to the type design, and is in condition for safe operation.
+(e) Noise requirements. Notwithstanding all other provisions of this section, the following must be complied with for the original issuance of a standard airworthiness certificate: 
+(1) For transport category large airplanes and jet (turbojet powered) airplanes that have not had any flight time before the dates specified in § 36.1(d), no standard airworthiness certificate is originally issued under this section unless the FAA finds that the type design complies with the noise requirements in § 36.1(d) in addition to the applicable airworthiness requirements in this section. For import airplanes, compliance with this paragraph is shown if the country in which the airplane was manufactured certifies, and the FAA finds, that § 36.1(d) (or the applicable airplane noise requirements of the country in which the airplane was manufactured and any other requirements the FAA may prescribe to provide noise levels no greater than those provided by compliance with § 36.1(d)) and paragraph (c) of this section are complied with. 
+(2) For normal, utility, acrobatic, commuter, or transport category propeller driven small airplanes (except for those airplanes that are designed for “agricultural aircraft operations” (as defined in § 137.3 of this chapter, as effective on January 1, 1966) or for dispensing fire fighting materials to which § 36.1583 of this chapter does not apply) that have not had any flight time before the applicable date specified in part 36 of this chapter, no standard airworthiness certificate is originally issued under this section unless the applicant shows that the type design complies with the applicable noise requirements of part 36 of this chapter in addition to the applicable airworthiness requirements in this section. For import airplanes, compliance with this paragraph is shown if the country in which the airplane was manufactured certifies, and the FAA finds, that the applicable requirements of part of this chapter (or the applicable airplane noise requirements of the country in which the airplane was manufactured and any other requirements the FAA may prescribe to provide noise levels no greater than those provided by compliance with the applicable requirements of part 36 of this chapter) and paragraph (c) of this section are complied with. 
+(f) Passenger emergency exit requirements. Notwithstanding all other provisions of this section, each applicant for issuance of a standard airworthiness certificate for a transport category airplane manufactured after October 16, 1987, must show that the airplane meets the requirements of § 25.807(c)(7) in effect on July 24, 1989. For the purposes of this paragraph, the date of manufacture of an airplane is the date the inspection acceptance records reflect that the airplane is complete and meets the FAA-approved type design data.
+(g) Fuel venting and exhaust emission requirements. Notwithstanding all other provisions of this section, and irrespective of the date of application, no airworthiness certificate is issued, on and after the dates specified in part 34 for the airplanes specified therein, unless the airplane complies with the applicable requirements of that part. 
+(h) New aircraft manufactured under the provisions of § 21.6(b). An applicant for a standard airworthiness certificate for a new aircraft manufactured under the provisions of § 21.6(b) is entitled to a standard airworthiness certificate if - 
+(1) The applicant presents evidence to the FAA that the aircraft conforms to a type design approved under a type certificate or supplemental type certificate and to applicable Airworthiness Directives;
+(2) The aircraft has been inspected in accordance with the performance rules for a 100-hour inspections set forth in § 43.15 of this chapter and found airworthy by a person specified in paragraph (d)(2) of this section; and
+(3) The FAA finds after inspection, that the aircraft conforms to the type design, and is in condition for safe operation.
+[Amdt. 21-17, 32 FR 14927, Oct. 28, 1967]
+Editorial Note:For Federal Register citations affecting § 21.183, see the List of CFR Sections Affected, which appears in the Finding Aids section of the printed volume and at www.govinfo.gov.§ 25.255   Out-of-trim characteristics.(a) From an initial condition with the airplane trimmed at cruise speeds up to VMO/MMO, the airplane must have satisfactory maneuvering stability and controllability with the degree of out-of-trim in both the airplane nose-up and nose-down directions, which results from the greater of - 
+(1) A three-second movement of the longitudinal trim system at its normal rate for the particular flight condition with no aerodynamic load (or an equivalent degree of trim for airplanes that do not have a power-operated trim system), except as limited by stops in the trim system, including those required by § 25.655(b) for adjustable stabilizers; or 
+(2) The maximum mistrim that can be sustained by the autopilot while maintaining level flight in the high speed cruising condition. 
+(b) In the out-of-trim condition specified in paragraph (a) of this section, when the normal acceleration is varied from + 1 g to the positive and negative values specified in paragraph (c) of this section - 
+(1) The stick force vs. g curve must have a positive slope at any speed up to and including VFC/MFC; and 
+(2) At speeds between VFC/MFC and VDF/MDF the direction of the primary longitudinal control force may not reverse. 
+(c) Except as provided in paragraphs (d) and (e) of this section, compliance with the provisions of paragraph (a) of this section must be demonstrated in flight over the acceleration range - 
+(1) −1 g to + 2.5 g; or 
+(2) 0 g to 2.0 g, and extrapolating by an acceptable method to −1 g and + 2.5 g. 
+(d) If the procedure set forth in paragraph (c)(2) of this section is used to demonstrate compliance and marginal conditions exist during flight test with regard to reversal of primary longitudinal control force, flight tests must be accomplished from the normal acceleration at which a marginal condition is found to exist to the applicable limit specified in paragraph (b)(1) of this section. 
+(e) During flight tests required by paragraph (a) of this section, the limit maneuvering load factors prescribed in §§ 25.333(b) and 25.337, and the maneuvering load factors associated with probable inadvertent excursions beyond the boundaries of the buffet onset envelopes determined under § 25.251(e), need not be exceeded. In addition, the entry speeds for flight test demonstrations at normal acceleration values less than 1 g must be limited to the extent necessary to accomplish a recovery without exceeding VDF/MDF. 
+(f) In the out-of-trim condition specified in paragraph (a) of this section, it must be possible from an overspeed condition at VDF/MDF to produce at least 1.5 g for recovery by applying not more than 125 pounds of longitudinal control force using either the primary longitudinal control alone or the primary longitudinal control and the longitudinal trim system. If the longitudinal trim is used to assist in producing the required load factor, it must be shown at VDF/MDF that the longitudinal trim can be actuated in the airplane nose-up direction with the primary surface loaded to correspond to the least of the following airplane nose-up control forces: 
+(1) The maximum control forces expected in service as specified in §§ 25.301 and 25.397. 
+(2) The control force required to produce 1.5 g. 
+(3) The control force corresponding to buffeting or other phenomena of such intensity that it is a strong deterrent to further application of primary longitudinal control force. 
+[Amdt. 25-42, 43 FR 2322, Jan. 16, 1978]
+
+
+§ 25.655   Installation.(a) Movable tail surfaces must be installed so that there is no interference between any surfaces when one is held in its extreme position and the others are operated through their full angular movement. 
+(b) If an adjustable stabilizer is used, it must have stops that will limit its range of travel to the maximum for which the airplane is shown to meet the trim requirements of § 25.161. 
+
+
+§ 25.1181   Designated fire zones; regions included.(a) Designated fire zones are - 
+(1) The engine power section; 
+(2) The engine accessory section; 
+(3) Except for reciprocating engines, any complete powerplant compartment in which no isolation is provided between the engine power section and the engine accessory section; 
+(4) Any auxiliary power unit compartment; 
+(5) Any fuel-burning heater and other combustion equipment installation described in § 25.859; 
+(6) The compressor and accessory sections of turbine engines; and 
+(7) Combustor, turbine, and tailpipe sections of turbine engine installations that contain lines or components carrying flammable fluids or gases. 
+(b) Each designated fire zone must meet the requirements of §§ 25.863, 25.865, 25.867, 25.869, and 25.1185 through 25.1203.
+[Doc. No. 5066, 29 FR 18291, Dec. 24, 1964, as amended by Amdt. 25-11, 32 FR 6913, May 5, 1967; Amdt. 25-23, 35 FR 5677, Apr. 8, 1970; Amdt. 25-72, 55 FR 29785, July 20, 1990; Amdt. 25-115, 69 FR 40527, July 2, 2004]
+
+
+§ 27.395   Control system.(a) The part of each control system from the pilot's controls to the control stops must be designed to withstand pilot forces of not less than - 
+(1) The forces specified in § 27.397; or 
+(2) If the system prevents the pilot from applying the limit pilot forces to the system, the maximum forces that the system allows the pilot to apply, but not less than 0.60 times the forces specified in § 27.397. 
+(b) Each primary control system, including its supporting structure, must be designed as follows:
+(1) The system must withstand loads resulting from the limit pilot forces prescribed in § 27.397.
+(2) Notwithstanding paragraph (b)(3) of this section, when power-operated actuator controls or power boost controls are used, the system must also withstand the loads resulting from the force output of each normally energized power device, including any single power boost or actuator system failure.
+(3) If the system design or the normal operating loads are such that a part of the system cannot react to the limit pilot forces prescribed in § 27.397, that part of the system must be designed to withstand the maximum loads that can be obtained in normal operation. The minimum design loads must, in any case, provide a rugged system for service use, including consideration of fatigue, jamming, ground gusts, control inertia, and friction loads. In the absence of rational analysis, the design loads resulting from 0.60 of the specified limit pilot forces are acceptable minimum design loads.
+(4) If operational loads may be exceeded through jamming, ground gusts, control inertia, or friction, the system must withstand the limit pilot forces specified in § 27.397, without yielding.
+[Doc. No. 5074, 29 FR 15695, Nov. 24, 1964, as amended by Amdt. 27-26, 55 FR 7999, Mar. 6, 1990]
+
+
+§ 27.623   Bearing factors.(a) Except as provided in paragraph (b) of this section, each part that has clearance (free fit), and that is subject to pounding or vibration, must have a bearing factor large enough to provide for the effects of normal relative motion. 
+(b) No bearing factor need be used on a part for which any larger special factor is prescribed. 
+
+
+§ 29.571   Fatigue Tolerance Evaluation of Metallic Structure.(a) A fatigue tolerance evaluation of each principal structural element (PSE) must be performed, and appropriate inspections and retirement time or approved equivalent means must be established to avoid catastrophic failure during the operational life of the rotorcraft. The fatigue tolerance evaluation must consider the effects of both fatigue and the damage determined under paragraph (e)(4) of this section. Parts to be evaluated include PSEs of the rotors, rotor drive systems between the engines and rotor hubs, controls, fuselage, fixed and movable control surfaces, engine and transmission mountings, landing gear, and their related primary attachments.
+(b) For the purposes of this section, the term - 
+(1) Catastrophic failure means an event that could prevent continued safe flight and landing.
+(2) Principal structural element (PSE) means a structural element that contributes significantly to the carriage of flight or ground loads, and the fatigue failure of that structural element could result in catastrophic failure of the aircraft.
+(c) The methodology used to establish compliance with this section must be submitted to and approved by the Administrator.
+(d) Considering all rotorcraft structure, structural elements, and assemblies, each PSE must be identified.
+(e) Each fatigue tolerance evaluation required by this section must include:
+(1) In-flight measurements to determine the fatigue loads or stresses for the PSEs identified in paragraph (d) of this section in all critical conditions throughout the range of design limitations required by § 29.309 (including altitude effects), except that maneuvering load factors need not exceed the maximum values expected in operations.
+(2) The loading spectra as severe as those expected in operations based on loads or stresses determined under paragraph (e)(1) of this section, including external load operations, if applicable, and other high frequency power-cycle operations.
+(3) Takeoff, landing, and taxi loads when evaluating the landing gear and other affected PSEs.
+(4) For each PSE identified in paragraph (d) of this section, a threat assessment which includes a determination of the probable locations, types, and sizes of damage, taking into account fatigue, environmental effects, intrinsic and discrete flaws, or accidental damage that may occur during manufacture or operation.
+(5) A determination of the fatigue tolerance characteristics for the PSE with the damage identified in paragraph (e)(4) of this section that supports the inspection and retirement times, or other approved equivalent means.
+(6) Analyses supported by test evidence and, if available, service experience.
+(f) A residual strength determination is required that substantiates the maximum damage size assumed in the fatigue tolerance evaluation. In determining inspection intervals based on damage growth, the residual strength evaluation must show that the remaining structure, after damage growth, is able to withstand design limit loads without failure.
+(g) The effect of damage on stiffness, dynamic behavior, loads, and functional performance must be considered.
+(h) Based on the requirements of this section, inspections and retirement times or approved equivalent means must be established to avoid catastrophic failure. The inspections and retirement times or approved equivalent means must be included in the Airworthiness Limitations Section of the Instructions for Continued Airworthiness required by Section 29.1529 and Section A29.4 of Appendix A of this part.
+(i) If inspections for any of the damage types identified in paragraph (e)(4) of this section cannot be established within the limitations of geometry, inspectability, or good design practice, then supplemental procedures, in conjunction with the PSE retirement time, must be established to minimize the risk of occurrence of these types of damage that could result in a catastrophic failure during the operational life of the rotorcraft.
+[Doc. No. FAA-2009-0413, Amdt. 29-55, 76 FR 75442, Dec. 2, 2011]
+
+
+§ 29.855   Cargo and baggage compartments.(a) Each cargo and baggage compartment must be construced of or lined with materials in accordance with the following:
+(1) For accessible and inaccessible compartments not occupied by passengers or crew, the material must be at least fire resistant.
+(2) Materials must meet the requirements in § 29.853(a)(1), (a)(2), and (a)(3) for cargo or baggage compartments in which - 
+(i) The presence of a compartment fire would be easily discovered by a crewmember while at the crewmember's station;
+(ii) Each part of the compartment is easily accessible in flight;
+(iii) The compartment has a volume of 200 cubic feet or less; and
+(iv) Notwithstanding § 29.1439(a), protective breathing equipment is not required.
+(b) No compartment may contain any controls, wiring, lines, equipment, or accessories whose damage or failure would affect safe operation, unless those items are protected so that - 
+(1) They cannot be damaged by the movement of cargo in the compartment; and 
+(2) Their breakage or failure will not create a fire hazard. 
+(c) The design and sealing of inaccessible compartments must be adequate to contain compartment fires until a landing and safe evacuation can be made. 
+(d) Each cargo and baggage compartment that is not sealed so as to contain cargo compartment fires completely without endangering the safety of a rotorcraft or its occupants must be designed, or must have a device, to ensure detection of fires or smoke by a crewmember while at his station and to prevent the accumulation of harmful quantities of smoke, flame, extinguishing agents, and other noxious gases in any crew or passenger compartment. This must be shown in flight. 
+(e) For rotorcraft used for the carriage of cargo only, the cabin area may be considered a cargo compartment and, in addition to paragraphs (a) through (d) of this section, the following apply: 
+(1) There must be means to shut off the ventilating airflow to or within the compartment. Controls for this purpose must be accessible to the flight crew in the crew compartment. 
+(2) Required crew emergency exits must be accessible under all cargo loading conditions. 
+(3) Sources of heat within each compartment must be shielded and insulated to prevent igniting the cargo. 
+[Doc. No. 5084, 29 FR 16150, Dec. 3, 1964, as amended by Amdt. 29-3, 33 FR 969, Jan. 26, 1968; Amdt. 29-24, 49 FR 44438, Nov. 6, 1984; Amdt. 27-26, 55 FR 8004, Mar. 6, 1990] 
+
+
+§ 29.1545   Airspeed indicator.(a) Each airspeed indicator must be marked as specified in paragraph (b) of this section, with the marks located at the corresponding indicated airspeeds. 
+(b) The following markings must be made: 
+(1) A red radial line -  
+(i) For rotorcraft other than helicopters, at VNE; and 
+(ii) For helicopters, at a VNE (power-on). 
+(2) A red, cross-hatched radial line at VNE (power-off) for helicopters, if VNE (power-off) is less than VNE (power-on). 
+(3) For the caution range, a yellow arc. 
+(4) For the safe operating range, a green arc. 
+(Secs. 313(a), 601, 603, 604, and 605 of the Federal Aviation Act of 1958 (49 U.S.C. 1354(a), 1421, 1423, 1424, and 1425); and sec. 6(c), Dept. of Transportation Act (49 U.S.C. 1655(c)))
+[Doc. No. 5084, 29 FR 16150, Dec. 3, 1964, as amended by Amdt. 29-15, 43 FR 2327, Jan. 16, 1978; 43 FR 3900, Jan. 30, 1978; Amdt. 29-17, 43 FR 50602, Oct. 30, 1978] 
+
+
+§ 31.71   Function and installation.(a) Each item of installed equipment must - 
+(1) Be of a kind and design appropriate to its intended function; 
+(2) Be permanently and legibly marked or, if the item is too small to mark, tagged as to its identification, function, or operating limitations, or any applicable combination of those factors; 
+(3) Be installed according to limitations specified for that equipment; and 
+(4) Function properly when installed. 
+(b) No item of installed equipment, when performing its function, may affect the function of any other equipment so as to create an unsafe condition. 
+(c) The equipment, systems, and installations must be designed to prevent hazards to the balloon in the event of a probable malfunction or failure. 
+[Amdt. 31-4, 45 FR 60180, Sept. 11, 1980] 
+
+
+§ 60.1   Applicability.(a) This part prescribes the rules governing the initial and continuing qualification and use of all aircraft flight simulation training devices (FSTD) used for meeting training, evaluation, or flight experience requirements of this chapter for flight crewmember certification or qualification.
+(b) The rules of this part apply to each person using or applying to use an FSTD to meet any requirement of this chapter.
+(c) The requirements of § 60.33 regarding falsification of applications, records, or reports also apply to each person who uses an FSTD for training, evaluation, or obtaining flight experience required for flight crewmember certification or qualification under this chapter. 
+
+
+§ 61.407   What aeronautical knowledge must I have to apply for a flight instructor certificate with a sport pilot rating?(a) Except as specified in paragraph (c) of this section you must receive and log ground training from an authorized instructor on the fundamentals of instruction that includes:
+(1) The learning process.
+(2) Elements of effective teaching.
+(3) Student evaluation and testing.
+(4) Course development.
+(5) Lesson planning.
+(6) Classroom training techniques.
+(b) You must receive and log ground training from an authorized instructor on the aeronautical knowledge areas applicable to a sport pilot certificate for the aircraft category and class in which you seek flight instructor privileges.
+(c) You do not have to meet the requirements of paragraph (a) of this section if you - 
+(1) Hold a flight instructor certificate or ground instructor certificate issued under this part;
+(2) Hold a teacher's certificate issued by a State, county, city, or municipality; or
+(3) Are employed as a teacher at an accredited college or university. 
+[Doc. No. FAA-2001-11133, 69 FR 44875, July 27, 2004, as amended by Amdt. 61-124, 74 FR 42562, Aug. 21, 2009]
+
+
+§ 63.35   Knowledge requirements.(a) An applicant for a flight engineer certificate must pass a written test on the following: 
+(1) The regulations of this chapter that apply to the duties of a flight engineer. 
+(2) The theory of flight and aerodynamics. 
+(3) Basic meteorology with respect to engine operations. 
+(4) Center of gravity computations. 
+(b) An applicant for the original or additional issue of a flight engineer class rating must pass a written test for that airplane class on the following: 
+(1) Preflight. 
+(2) Airplane equipment. 
+(3) Airplane systems. 
+(4) Airplane loading. 
+(5) Airplane procedures and engine operations with respect to limitations. 
+(6) Normal operating procedures. 
+(7) Emergency procedures. 
+(8) Mathematical computation of engine operations and fuel consumption. 
+(c) Before taking the written tests prescribed in paragraphs (a) and (b) of this section, an applicant for a flight engineer certificate must present satisfactory evidence of having completed one of the experience requirements of § 63.37. However, he may take the written tests before acquiring the flight training required by § 63.37. 
+(d) An applicant for a flight engineer certificate or rating must have passed the written tests required by paragraphs (a) and (b) of this section since the beginning of the 24th calendar month before the month in which the flight is taken. However, this limitation does not apply to an applicant for a flight engineer certificate or rating if - 
+(1) The applicant - 
+(i) Within the period ending 24 calendar months after the month in which the applicant passed the written test, is employed as a flight crewmember or mechanic by a U.S. air carrier or commercial operator operating either under part 121 or as a commuter air carrier under part 135 (as defined in part 298 of this title) and is employed by such a certificate holder at the time of the flight test;
+(ii) If employed as a flight crewmember, has completed initial training, and, if appropriate, transition or upgrade training; and
+(iii) Meets the recurrent training requirements of the applicable part or, for mechanics, meets the recency of experience requirements of part 65; or
+(2) Within the period ending 24 calendar months after the month in which the applicant passed the written test, the applicant participated in a flight engineer or maintenance training program of a U.S. scheduled military air transportation service and is currently participating in that program.
+(e) An air carrier or commercial operator with an approved training program under part 121 of this chapter may, when authorized by the Administrator, provide as part of that program a written test that it may administer to satisfy the test required for an additional rating under paragraph (b) of this section. 
+(Sec. 6, 80 Stat. 937, 49 U.S.C. 1655; secs. 313(a), 601 through 605 of the Federal Aviation Act of 1958 (49 U.S.C. 1354(a), 1421 through 1425); sec. 6(c), Department of Transportation Act (49 U.S.C. 1655(c)); and 14 CFR 11.49)
+[Doc. No. 1179, 27 FR 7969, Aug. 10, 1962, as amended by Amdt. 63-17, 40 FR 32830, Aug. 5, 1975; Doc. No. 63-21, 47 FR 13316, Mar. 29, 1982] 
+
+
+§ 71.41   Class B airspace.The Class B airspace areas listed in subpart B of FAA Order 7400.11E (incorporated by reference, see § 71.1) consist of specified airspace within which all aircraft operators are subject to the minimum pilot qualification requirements, operating rules, and aircraft equipment requirements of part 91 of this chapter. Each Class B airspace area designated for an airport in subpart B of FAA Order 7400.11E (incorporated by reference, see § 71.1) contains at least one primary airport around which the airspace is designated.
+[Doc. No. 29334, 73 FR 54495, Sept. 22, 2008, as amended by Amdt. 71-40, 73 FR 60940, Oct. 15, 2008; Amdt. 71-41, 74 FR 46490, Sept. 10, 2009; Amdt. 71-42, 75 FR 55268, Sept. 10, 2010; Amdt. 71-43, 76 FR 53329, Aug. 26, 2011; Amdt. 71-44, 77 FR 50908, Aug. 23, 2012; Amdt. 71-45, 78 FR 52848, Aug. 27, 2013; Amdt. 71-46, 79 FR 51888, Sept. 2, 2014; Amdt. 71-47, 80 FR 51937, Aug. 27, 2015; Docket FAA-2016-8926, Amdt. 71-48, 81 FR 55372, Aug. 19, 2016; Docket FAA-2017-0798, Amdt. 71-49, 82 FR 40068, Aug. 24, 2017; Docket FAA-2018-0770, Amdt. 71-50, 83 FR 43757, Aug. 28, 2018; Docket FAA-2019-0627, Amdt. 71-51, 84 FR 45652, Aug. 30, 2019; Docket FAA-2020-0702, Amdt. 71-52, 85 FR 50780, Aug. 18, 2020]
+
+
+Effective Date Note:By Docket FAA-2020-0702, Amdt. 71-52, 85 FR 50780, Aug. 18, 2020, § 71.41 was amended by removing the words “FAA Order 7400.11D” and adding, in their place, the words “FAA Order 7400.11E”, effective Sept. 15, 2020, through Sept. 15, 2021.§ 91.501   Applicability.(a) This subpart prescribes operating rules, in addition to those prescribed in other subparts of this part, governing the operation of large airplanes of U.S. registry, turbojet-powered multiengine civil airplanes of U.S. registry, and fractional ownership program aircraft of U.S. registry that are operating under subpart K of this part in operations not involving common carriage. The operating rules in this subpart do not apply to those aircraft when they are required to be operated under parts 121, 125, 129, 135, and 137 of this chapter. (Section 91.409 prescribes an inspection program for large and for turbine-powered (turbojet and turboprop) multiengine airplanes and turbine-powered rotorcraft of U.S. registry when they are operated under this part or part 129 or 137.)
+(b) Operations that may be conducted under the rules in this subpart instead of those in parts 121, 129, 135, and 137 of this chapter when common carriage is not involved, include - 
+(1) Ferry or training flights;
+(2) Aerial work operations such as aerial photography or survey, or pipeline patrol, but not including fire fighting operations;
+(3) Flights for the demonstration of an airplane to prospective customers when no charge is made except for those specified in paragraph (d) of this section; 
+(4) Flights conducted by the operator of an airplane for his personal transportation, or the transportation of his guests when no charge, assessment, or fee is made for the transportation; 
+(5) Carriage of officials, employees, guests, and property of a company on an airplane operated by that company, or the parent or a subsidiary of the company or a subsidiary of the parent, when the carriage is within the scope of, and incidental to, the business of the company (other than transportation by air) and no charge, assessment or fee is made for the carriage in excess of the cost of owning, operating, and maintaining the airplane, except that no charge of any kind may be made for the carriage of a guest of a company, when the carriage is not within the scope of, and incidental to, the business of that company; 
+(6) The carriage of company officials, employees, and guests of the company on an airplane operated under a time sharing, interchange, or joint ownership agreement as defined in paragraph (c) of this section; 
+(7) The carriage of property (other than mail) on an airplane operated by a person in the furtherance of a business or employment (other than transportation by air) when the carriage is within the scope of, and incidental to, that business or employment and no charge, assessment, or fee is made for the carriage other than those specified in paragraph (d) of this section; 
+(8) The carriage on an airplane of an athletic team, sports group, choral group, or similar group having a common purpose or objective when there is no charge, assessment, or fee of any kind made by any person for that carriage; and 
+(9) The carriage of persons on an airplane operated by a person in the furtherance of a business other than transportation by air for the purpose of selling them land, goods, or property, including franchises or distributorships, when the carriage is within the scope of, and incidental to, that business and no charge, assessment, or fee is made for that carriage. 
+(10) Any operation identified in paragraphs (b)(1) through (b)(9) of this section when conducted - 
+(i) By a fractional ownership program manager, or 
+(ii) By a fractional owner in a fractional ownership program aircraft operated under subpart K of this part, except that a flight under a joint ownership arrangement under paragraph (b)(6) of this section may not be conducted. For a flight under an interchange agreement under paragraph (b)(6) of this section, the exchange of equal time for the operation must be properly accounted for as part of the total hours associated with the fractional owner's share of ownership. 
+(c) As used in this section - 
+(1) A time sharing agreement means an arrangement whereby a person leases his airplane with flight crew to another person, and no charge is made for the flights conducted under that arrangement other than those specified in paragraph (d) of this section; 
+(2) An interchange agreement means an arrangement whereby a person leases his airplane to another person in exchange for equal time, when needed, on the other person's airplane, and no charge, assessment, or fee is made, except that a charge may be made not to exceed the difference between the cost of owning, operating, and maintaining the two airplanes; 
+(3) A joint ownership agreement means an arrangement whereby one of the registered joint owners of an airplane employs and furnishes the flight crew for that airplane and each of the registered joint owners pays a share of the charge specified in the agreement. 
+(d) The following may be charged, as expenses of a specific flight, for transportation as authorized by paragraphs (b) (3) and (7) and (c)(1) of this section: 
+(1) Fuel, oil, lubricants, and other additives. 
+(2) Travel expenses of the crew, including food, lodging, and ground transportation. 
+(3) Hangar and tie-down costs away from the aircraft's base of operation. 
+(4) Insurance obtained for the specific flight. 
+(5) Landing fees, airport taxes, and similar assessments. 
+(6) Customs, foreign permit, and similar fees directly related to the flight. 
+(7) In flight food and beverages. 
+(8) Passenger ground transportation. 
+(9) Flight planning and weather contract services. 
+(10) An additional charge equal to 100 percent of the expenses listed in paragraph (d)(1) of this section. 
+[Doc. No. 18334, 54 FR 34314, Aug. 18, 1989, as amended by Amdt. 91-280, 68 FR 54560, Sept. 17, 2003]
+
+
+§ 91.1023   Program operating manual requirements.(a) Each program manager must prepare and keep current a program operating manual setting forth procedures and policies acceptable to the Administrator. The program manager's management, flight, ground, and maintenance personnel must use this manual to conduct operations under this subpart. However, the Administrator may authorize a deviation from this paragraph if the Administrator finds that, because of the limited size of the operation, part of the manual is not necessary for guidance of management, flight, ground, or maintenance personnel. 
+(b) Each program manager must maintain at least one copy of the manual at its principal base of operations. 
+(c) No manual may be contrary to any applicable U.S. regulations, foreign regulations applicable to the program flights in foreign countries, or the program manager's management specifications. 
+(d) The program manager must make a copy of the manual, or appropriate portions of the manual (and changes and additions), available to its maintenance and ground operations personnel and must furnish the manual to -  
+(1) Its crewmembers; and 
+(2) Representatives of the Administrator assigned to the program manager. 
+(e) Each employee of the program manager to whom a manual or appropriate portions of it are furnished under paragraph (d)(1) of this section must keep it up-to-date with the changes and additions furnished to them. 
+(f) Except as provided in paragraph (h) of this section, the appropriate parts of the manual must be carried on each aircraft when away from the principal operations base. The appropriate parts must be available for use by ground or flight personnel. 
+(g) For the purpose of complying with paragraph (d) of this section, a program manager may furnish the persons listed therein with all or part of its manual in printed form or other form, acceptable to the Administrator, that is retrievable in the English language. If the program manager furnishes all or part of the manual in other than printed form, it must ensure there is a compatible reading device available to those persons that provides a legible image of the maintenance information and instructions, or a system that is able to retrieve the maintenance information and instructions in the English language. 
+(h) If a program manager conducts aircraft inspections or maintenance at specified facilities where the approved aircraft inspection program is available, the program manager is not required to ensure that the approved aircraft inspection program is carried aboard the aircraft en route to those facilities. 
+(i) Program managers that are also certificated to operate under part 121 or 135 of this chapter may be authorized to use the operating manual required by those parts to meet the manual requirements of subpart K, provided: 
+(1) The policies and procedures are consistent for both operations, or 
+(2) When policies and procedures are different, the applicable policies and procedures are identified and used. 
+
+
+§ 91.1107   Recurrent training.(a) Each program manager must ensure that each crewmember receives recurrent training and is adequately trained and currently proficient for the type aircraft and crewmember position involved. 
+(b) Recurrent ground training for crewmembers must include at least the following: 
+(1) A quiz or other review to determine the crewmember's knowledge of the aircraft and crewmember position involved. 
+(2) Instruction as necessary in the subjects required for initial ground training by this subpart, as appropriate, including low-altitude windshear training and training on operating during ground icing conditions, as prescribed in § 91.1097 and described in § 91.1101, and emergency training. 
+(c) Recurrent flight training for pilots must include, at least, flight training in the maneuvers or procedures in this subpart, except that satisfactory completion of the check required by § 91.1065 within the preceding 12 months may be substituted for recurrent flight training. 
+
+
+§ 91.1703   Compliance and eligibility.(a) Except as provided in paragraph (b) of this section, no person may manipulate the controls, act as PIC, act as second-in-command, or provide pilot training for a Mitsubishi MU-2B series airplane unless that person meets the requirements of this subpart.
+(b) A person who does not meet the requirements of this subpart may manipulate the controls of a Mitsubishi MU-2B series airplane if a pilot in command who meets the requirements of this subpart is occupying a pilot station, no passengers or cargo are carried on board the airplane, and the flight is being conducted for one of the following reasons - 
+(1) The pilot in command is providing pilot training to the manipulator of the controls;
+(2) The pilot in command is conducting a maintenance test flight with a second pilot or certificated mechanic; or
+(3) The pilot in command is conducting simulated instrument flight and is using a safety pilot other than the pilot in command who manipulates the controls for the purposes of § 91.109(b).
+(c) A person is required to complete Initial/transition training if that person has fewer than - 
+(1) 50 hours of documented flight time manipulating the controls while serving as pilot in command of a Mitsubishi MU-2B series airplane in the preceding 24 months; or
+(2) 500 hours of documented flight time manipulating the controls while serving as pilot in command of a Mitsubishi MU-2B series airplane.
+(d) A person is eligible to receive Requalification training in lieu of Initial/transition training if that person has at least - 
+(1) 50 hours of documented flight time manipulating the controls while serving as pilot in command of a Mitsubishi MU-2B series airplane in the preceding 24 months; or
+(2) 500 hours of documented flight time manipulating the controls while serving as pilot in command of a Mitsubishi MU-2B series airplane.
+(e) A person is required to complete Recurrent training within the preceding 12 months. Successful completion of Initial/transition or Requalification training within the preceding 12 months satisfies the requirement of Recurrent training. A person must successfully complete Initial/transition training or Requalification training before being eligible to receive Recurrent training.
+(f) Successful completion of Initial/transition training or Requalification training is a one-time requirement. A person may elect to retake Initial/transition training or Requalification training in lieu of Recurrent training.
+(g) A person is required to complete Differences training in accordance with an FAA approved MU-2B training program if that person operates more than one MU-2B model as specified in § 91.1707(c).
+
+
+§ 107.15   Condition for safe operation.(a) No person may operate a civil small unmanned aircraft system unless it is in a condition for safe operation. Prior to each flight, the remote pilot in command must check the small unmanned aircraft system to determine whether it is in a condition for safe operation.
+(b) No person may continue flight of the small unmanned aircraft when he or she knows or has reason to know that the small unmanned aircraft system is no longer in a condition for safe operation.
+
+
+§ 107.51   Operating limitations for small unmanned aircraft.A remote pilot in command and the person manipulating the flight controls of the small unmanned aircraft system must comply with all of the following operating limitations when operating a small unmanned aircraft system:
+(a) The groundspeed of the small unmanned aircraft may not exceed 87 knots (100 miles per hour).
+(b) The altitude of the small unmanned aircraft cannot be higher than 400 feet above ground level, unless the small unmanned aircraft:
+(1) Is flown within a 400-foot radius of a structure; and
+(2) Does not fly higher than 400 feet above the structure's immediate uppermost limit.
+(c) The minimum flight visibility, as observed from the location of the control station must be no less than 3 statute miles. For purposes of this section, flight visibility means the average slant distance from the control station at which prominent unlighted objects may be seen and identified by day and prominent lighted objects may be seen and identified by night.
+(d) The minimum distance of the small unmanned aircraft from clouds must be no less than:
+(1) 500 feet below the cloud; and
+(2) 2,000 feet horizontally from the cloud.
+
+
+§ 119.7   Operations specifications.(a) Each certificate holder's operations specifications must contain - 
+(1) The authorizations, limitations, and certain procedures under which each kind of operation, if applicable, is to be conducted; and 
+(2) Certain other procedures under which each class and size of aircraft is to be operated. 
+(b) Except for operations specifications paragraphs identifying authorized kinds of operations, operations specifications are not a part of a certificate. 
+
+
+§ 121.111   Applicability.This subpart prescribes rules for obtaining approval of areas and routes by certificate holders conducting supplemental operations.
+[Doc. No. 28154, 61 FR 2610, Jan. 26, 1996]
+
+
+§ 121.153   Aircraft requirements: General.(a) Except as provided in paragraph (c) of this section, no certificate holder may operate an aircraft unless that aircraft - 
+(1) Is registered as a civil aircraft of the United States and carries an appropriate current airworthiness certificate issued under this chapter; and 
+(2) Is in an airworthy condition and meets the applicable airworthiness requirements of this chapter, including those relating to identification and equipment. 
+(b) A certificate holder may use an approved weight and balance control system based on average, assumed, or estimated weight to comply with applicable airworthiness requirements and operating limitations. 
+(c) A certificate holder may operate in common carriage, and for the carriage of mail, a civil aircraft which is leased or chartered to it without crew and is registered in a country which is a party to the Convention on International Civil Aviation if - 
+(1) The aircraft carries an appropriate airworthiness certificate issued by the country of registration and meets the registration and identification requirements of that country; 
+(2) The aircraft is of a type design which is approved under a U.S. type certificate and complies with all of the requirements of this chapter (14 CFR Chapter 1) that would be applicable to that aircraft were it registered in the United States, including the requirements which must be met for issuance of a U.S. standard airworthiness certificate (including type design conformity, condition for safe operation, and the noise, fuel venting, and engine emission requirements of this chapter), except that a U.S. registration certificate and a U.S. standard airworthiness certificate will not be issued for the aircraft; 
+(3) The aircraft is operated by U.S.-certificated airmen employed by the certificate holder; and 
+(4) The certificate holder files a copy of the aircraft lease or charter agreement with the FAA Aircraft Registry, Department of Transportation, 6400 South MacArthur Boulevard, Oklahoma City, OK (Mailing address: P.O. Box 25504, Oklahoma City, OK 73125). 
+[Doc. No. 6258, 29 FR 19197, Dec. 31, 1964, as amended by Amdt. 121-165, 45 FR 68649, Oct. 16, 1980]
+
+
+§ 121.201   Nontransport category airplanes: En route limitations: One engine inoperative.(a) Except as provided in paragraph (b) of this section, no person operating a nontransport category airplane may take off that airplane at a weight that does not allow a rate of climb of at least 50 feet a minute, with the critical engine inoperative, at an altitude of at least 1,000 feet above the highest obstruction within five miles on each side of the intended track, or 5,000 feet, whichever is higher. 
+(b) Notwithstanding paragraph (a) of this section, if the Administrator finds that safe operations are not impaired, a person may operate the airplane at an altitude that allows the airplane, in case of engine failure, to clear all obstructions within 5 miles on each side of the intended track by 1,000 feet. If this procedure is used, the rate of descent for the appropriate weight and altitude is assumed to be 50 feet a minute greater than the rate in the approved performance data. Before approving such a procedure, the Administrator considers the following for the route, route segment, or area concerned: 
+(1) The reliability of wind and weather forecasting. 
+(2) The location and kinds of navigation aids. 
+(3) The prevailing weather conditions, particularly the frequency and amount of turbulence normally encountered. 
+(4) Terrain features. 
+(5) Air traffic control problems. 
+(6) Any other operational factors that affect the operation. 
+(c) For the purposes of this section, it is assumed that - 
+(1) The critical engine is inoperative; 
+(2) The propeller of the inoperative engine is in the minimum drag position; 
+(3) The wing flaps and landing gear are in the most favorable position; 
+(4) The operating engines are operating at the maximum continuous power available; 
+(5) The airplane is operating in standard atmosphere; and 
+(6) The weight of the airplane is progressively reduced by the anticipated consumption of fuel and oil. 
+
+
+§ 121.301   Applicability.This subpart prescribes instrument and equipment requirements for all certificate holders. 
+
+
+§ 121.434   Operating experience, operating cycles, and consolidation of knowledge and skills.(a) No certificate holder may use a person nor may any person serve as a required crewmember of an airplane unless the person has satisfactorily completed, on that type airplane and in that crewmember position, the operating experience, operating cycles, and the line operating flight time for consolidation of knowledge and skills, required by this section, except as follows: 
+(1) Crewmembers other than pilots in command may serve as provided herein for the purpose of meeting the requirements of this section. 
+(2) Pilots who are meeting the pilot in command requirements may serve as second in command. 
+(3) Separate operating experience, operating cycles, and line operating flight time for consolidation of knowledge and skills are not required for variations within the same type airplane. 
+(4) Deviation based upon designation of related aircraft in accordance with § 121.418(b).
+(i) The Administrator may authorize a deviation from the operating experience, operating cycles, and line operating flight time for consolidation of knowledge and skills required by this section based upon a designation of related aircraft in accordance with § 121.418(b) of this part and a determination that the certificate holder can demonstrate an equivalent level of safety.
+(ii) A request for deviation from the operating experience, operating cycles, and line operating flight time for consolidation of knowledge and skills required by this section based upon a designation of related aircraft must be submitted to the Administrator. The request must include the following:
+(A) Identification of aircraft operated by the certificate holder designated as related aircraft.
+(B) Hours of operating experience and number of operating cycles necessary based on review of the related aircraft, the operation, and the duty position.
+(C) Consolidation hours necessary based on review of the related aircraft, the operation, and the duty position.
+(iii) The administrator may, at any time, terminate a grant of deviation authority issued under this paragraph (a)(4).
+(b) In acquiring the operating experience, operating cycles, and line operating flight time for consolidation of knowledge and skills, crewmembers must comply with the following:
+(1) In the case of a flight crewmember, the person must hold the appropriate certificates and ratings for the crewmember position and the airplane, except that a pilot who is meeting the pilot in command requirements must hold the appropriate certificates and ratings for a pilot in command in the airplane. 
+(2) The operating experience, operating cycles, and line operating flight time for consolidation of knowledge and skills must be acquired after satisfactory completion of the appropriate ground and flight training for the particular airplane type and crewmember position.
+(3) In the case of a pilot who satisfactorily completed the preflight visual inspection of an aircraft by approved pictorial means during an initial, transition, conversion, or upgrade proficiency check, the pilot must also demonstrate proficiency to a check pilot on at least one complete preflight visual inspection of the interior and exterior of a static airplane. This demonstration of proficiency must be completed by the pilot and certified by the check pilot before the completion of operating experience.
+(4) The experience must be acquired inflight during operations under this part. However, in the case of an aircraft not previously used by the certificate holder in operations under this part, operating experience acquired in the aircraft during proving flights or ferry flights may be used to meet this requirement.
+(c) Pilot crewmembers must acquire operating experience and operating cycles as follows:
+(1) A pilot in command must - 
+(i) Perform the duties of a pilot in command under the supervision of a check pilot; and 
+(ii) For a qualifying pilot in command completing initial or upgrade training specified in § 121.424 or § 121.426, be observed in the performance of prescribed duties by an FAA inspector during at least one flight leg which includes a takeoff and landing. During the time that a qualifying pilot in command is acquiring the operating experience in paragraphs (c)(l)(i) and (ii) of this section, a check pilot who is also serving as the pilot in command must occupy a pilot station. However, in the case of a transitioning pilot in command the check pilot serving as pilot in command may occupy the observer's seat, if the transitioning pilot has made at least two takeoffs and landings in the type airplane used, and has satisfactorily demonstrated to the check pilot that he is qualified to perform the duties of a pilot in command of that type of airplane.
+(2) A second in command pilot must perform the duties of a second in command under the supervision of an appropriately qualified check pilot.
+(3) The hours of operating experience and operating cycles for all pilots are as follows:
+(i) For initial training, 15 hours in Group I reciprocating powered airplanes, 20 hours in Group I turbopropeller powered airplanes, and 25 hours in Group II airplanes. Operating experience in both airplane groups must include at least 4 operating cycles (at least 2 as the pilot flying the airplane).
+(ii) For transition training, except as provided in paragraph (c)(3)(iii) of this section, 10 hours in Group I reciprocating powered airplanes, 12 hours in Group I turbopropeller powered airplanes, 25 hours for pilots in command in Group II airplanes, and 15 hours for second in command pilots in Group II airplanes. Operating experience in both airplane groups must include at least 4 operating cycles (at least 2 as the pilot flying the airplane).
+(iii) In the case of transition training where the certificate holder's approved training program includes a course of training in an FFS under § 121.409(c), each pilot in command must comply with the requirements prescribed in paragraph (c)(3)(i) of this section for initial training.
+(d) A flight engineer must perform the duties of a flight engineer under the supervision of a check airman or a qualified flight engineer for at least the following number of hours: 
+(1) Group I reciprocating powered airplanes, 8 hours. 
+(2) Group I turbopropeller powered airplanes, 10 hours. 
+(3) Group II airplanes, 12 hours. 
+(e) A flight attendant must, for at least 5 hours, perform the assigned duties of a flight attendant under the supervision of a flight attendant supervisor qualified under this part who personally observes the performance of these duties. However, operating experience is not required for a flight attendant who has previously acquired such experience on any large passenger carrying airplane of the same group, if the certificate holder shows that the flight attendant has received sufficient ground training for the airplane in which the flight attendant is to serve. Flight attendants receiving operating experience may not be assigned as a required crewmember. Flight attendants who have satisfactorily completed training time acquired in an approved training program conducted in a full-scale (except for length) cabin training device of the type airplane in which they are to serve may substitute this time for 50 percent of the hours required by this paragraph. 
+(f) Flight crewmembers may substitute one additional takeoff and landing for each hour of flight to meet the operating experience requirements of this section, up to a maximum reduction of 50% of flight hours, except those in Group II initial training, and second in command pilots in Group II transition training. 
+(g) Except as provided in paragraph (h) of this section, pilot in command and second in command crewmembers must each acquire at least 100 hours of line operating flight time for consolidation of knowledge and skills (including operating experience required under paragraph (c) of this section) within 120 days after the satisfactory completion of:
+(1) Any part of the flight maneuvers and procedures portion of either an airline transport pilot certificate with type rating practical test or an additional type rating practical test, or
+(2) A § 121.441 proficiency check.
+(h) The following exceptions apply to the consolidation requirement of paragraph (g) of this section:
+(1) Pilots who have qualified and served as pilot in command or second in command on a particular type airplane in operations under this part before August 25, 1995 are not required to complete line operating flight time for consolidation of knowledge and skills.
+(2) Pilots who have completed the line operating flight time requirement for consolidation of knowledge and skills while serving as second in command on a particular type airplane in operations under this part after August 25, 1995 are not required to repeat the line operating flight time before serving as pilot in command on the same type airplane.
+(3) If, before completing the required 100 hours of line operating flight time, a pilot serves as a pilot in another airplane type operated by the certificate holder, the pilot may not serve as a pilot in the airplane for which the pilot has newly qualified unless the pilot satifactorily completes refresher training as provided in the certificate holder's approved training program and that training is conducted by an appropriately qualified instructor or check pilot.
+(4) If the required 100 hours of line operating flight time are not completed within 120 days, the certificate holder may extend the 120-day period to no more than 150 days if - 
+(i) The pilot continues to meet all other applicable requirements of subpart O of this part; and
+(ii) On or before the 120th day the pilot satisfactorily completes refresher training conducted by an appropriately qualified instructor or check pilot as provided in the certificate holder's approved training program, or a check pilot determines that the pilot has retained an adequate level of proficiency after observing that pilot in a supervised line operating flight.
+(5) The Administrator, upon application by the certificate holder, may authorize deviations from the requirements of paragraph (g) of this section, by an appropriate amendment to the operations specifications, to the extent warranted by any of the following circumstances:
+(i) A newly certificated certificate holder does not employ any pilots who meet the minimum requirements of paragraph (g) of this section. 
+(ii) An existing certificate holder adds to its fleet an airplane type not before proven for use in its operations.
+(iii) A certificate holder establishes a new domicile to which it assigns pilots who will be required to become qualified on the airplanes operated from that domicile.
+(i) Notwithstanding the reductions in programmed hours permitted under §§ 121.405 and 121.409 of subpart N of this part, the hours of operating experience for crewmembers are not subject to reduction other than as provided in accordance with a deviation authorized under paragraph (a) of this section or as provided in paragraphs (e) and (f) of this section.
+[Doc. No. 9509, 35 FR 95, Jan. 3, 1970, as amended by Amdt. 121-74, 36 FR 12284, June 30, 1971; Amdt. 121-91, 37 FR 10729, May 27, 1972; Amdt. 121-140, 43 FR 9599, Mar. 9, 1978; Amdt. 121-144, 43 FR 22647, May 25, 1978; Amdt. 121-159, 45 FR 41593, June 19, 1980; Amdt. 121-248, 60 FR 20870, Apr. 27, 1995; Amdt. 121-366, 78 FR 67840, Nov. 12, 2013; Amdt. 121-382, 85 FR 10925, Feb. 25, 2020] 
+
+
+§ 121.495   Fatigue risk management system.(a) No certificate holder may exceed any provision of this subpart unless approved by the FAA under a Fatigue Risk Management System.
+(b) The Fatigue Risk Management System must include:
+(1) A fatigue risk management policy.
+(2) An education and awareness training program.
+(3) A fatigue reporting system.
+(4) A system for monitoring flightcrew fatigue.
+(5) An incident reporting process.
+(6) A performance evaluation.
+[Doc. No. FAA-2009-1093, 77 FR 403, Jan. 4, 2012]
+
+
+§ 121.541   Operations schedules: Domestic and flag operations.In establishing flight operations schedules, each certificate holder conducting domestic or flag operations shall allow enough time for the proper servicing of aircraft at intermediate stops, and shall consider the prevailing winds en route and the cruising speed of the type of aircraft used. This cruising speed may not be more than that resulting from the specified cruising output of the engines.
+[Doc. No. 28154, 61 FR 2613, Jan. 26, 1996]
+
+
+§ 125.129   Fuel system lines and fittings.(a) Fuel lines must be installed and supported so as to prevent excessive vibration and so as to be adequate to withstand loads due to fuel pressure and accelerated flight conditions. 
+(b) Lines connected to components of the airplane between which there may be relative motion must incorporate provisions for flexibility. 
+(c) Flexible connections in lines that may be under pressure and subject to axial loading must use flexible hose assemblies rather than hose clamp connections. 
+(d) Flexible hoses must be of an acceptable type or proven suitable for the particular application. 
+
+
+§ 133.27   Availability, transfer, and surrender of certificate.(a) Each holder of a rotorcraft external-load operator certificate shall keep that certificate and a list of authorized rotorcraft at the home base of operations and shall make it available for inspection by the Administrator upon request. 
+(b) Each person conducting a rotorcraft external-load operation shall carry a facsimile of the Rotorcraft External-Load Operator Certificate in each rotorcraft used in the operation. 
+(c) If the Administrator suspends or revokes a Rotorcraft External-Load Operator Certificate, the holder of that certificate shall return it to the Administrator. If the certificate holder, for any other reason, discontinues operations under his certificate, and does not resume operations within two years, he shall return the certificate to the responsible Flight Standards office. 
+[Doc. No. 1529, 29 FR 603, Jan. 24, 1964, as amended by Amdt. 133-9, 51 FR 40708, Nov. 7, 1986; Amdt. 133-11, 54 FR 39294, Sept. 25, 1989; Docket FAA-2018-0119, Amdt. 133-16, 83 FR 9174, Mar. 5, 2018]
+
+
+§ 135.89   Pilot requirements: Use of oxygen.(a) Unpressurized aircraft. Each pilot of an unpressurized aircraft shall use oxygen continuously when flying - 
+(1) At altitudes above 10,000 feet through 12,000 feet MSL for that part of the flight at those altitudes that is of more than 30 minutes duration; and 
+(2) Above 12,000 feet MSL. 
+(b) Pressurized aircraft. (1) Whenever a pressurized aircraft is operated with the cabin pressure altitude more than 10,000 feet MSL, each pilot shall comply with paragraph (a) of this section. 
+(2) Whenever a pressurized aircraft is operated at altitudes above 25,000 feet through 35,000 feet MSL, unless each pilot has an approved quick-donning type oxygen mask - 
+(i) At least one pilot at the controls shall wear, secured and sealed, an oxygen mask that either supplies oxygen at all times or automatically supplies oxygen whenever the cabin pressure altitude exceeds 12,000 feet MSL; and 
+(ii) During that flight, each other pilot on flight deck duty shall have an oxygen mask, connected to an oxygen supply, located so as to allow immediate placing of the mask on the pilot's face sealed and secured for use. 
+(3) Whenever a pressurized aircraft is operated at altitudes above 35,000 feet MSL, at least one pilot at the controls shall wear, secured and sealed, an oxygen mask required by paragraph (b)(2)(i) of this section. 
+(4) If one pilot leaves a pilot duty station of an aircraft when operating at altitudes above 25,000 feet MSL, the remaining pilot at the controls shall put on and use an approved oxygen mask until the other pilot returns to the pilot duty station of the aircraft. 
+
+
+§ 135.209   VFR: Fuel supply.(a) No person may begin a flight operation in an airplane under VFR unless, considering wind and forecast weather conditions, it has enough fuel to fly to the first point of intended landing and, assuming normal cruising fuel consumption - 
+(1) During the day, to fly after that for at least 30 minutes; or 
+(2) At night, to fly after that for at least 45 minutes. 
+(b) No person may begin a flight operation in a helicopter under VFR unless, considering wind and forecast weather conditions, it has enough fuel to fly to the first point of intended landing and, assuming normal cruising fuel consumption, to fly after that for at least 20 minutes. 
+
+
+§ 136.3   Letters of Authorization.Operators subject to this subpart who have Letters of Authorization may use the procedures described in 14 CFR 119.51 to amend or have the FAA reconsider those Letters of Authorization.
+
+
+§ 141.95   Graduation certificate.(a) The holder of a pilot school certificate or provisional pilot school certificate must issue a graduation certificate to each student who completes its approved course of training. 
+(b) The graduation certificate must be issued to the student upon completion of the course of training and contain at least the following information: 
+(1) The name of the school and the certificate number of the school; 
+(2) The name of the graduate to whom it was issued; 
+(3) The course of training for which it was issued; 
+(4) The date of graduation; 
+(5) A statement that the student has satisfactorily completed each required stage of the approved course of training including the tests for those stages; 
+(6) A certification of the information contained on the graduation certificate by the chief instructor for that course of training; and 
+(7) A statement showing the cross-country training that the student received in the course of training. 
+(8) Certificates issued upon graduating from a course based on internet media must be uniquely identified using an alphanumeric code that is specific to the student graduating from that course.
+[Doc. No. 25910, 62 FR 16347, Apr. 4, 1997; Amdt. 141-9, 62 FR 40908, July 30, 1997, as amended by Amdt. 141-15, 76 FR 54108, Aug. 31, 2011]
+
+
+§ 157.1   Applicability.This part applies to persons proposing to construct, alter, activate, or deactivate a civil or joint-use (civil/military) airport or to alter the status or use of such an airport. Requirements for persons to notify the Administrator concerning certain airport activities are prescribed in this part. This part does not apply to projects involving:
+(a) An airport subject to conditions of a Federal agreement that requires an approved current airport layout plan to be on file with the Federal Aviation Administration; or 
+(b) An airport at which flight operations will be conducted under visual flight rules (VFR) and which is used or intended to be used for a period of less than 30 consecutive days with no more than 10 operations per day.
+(c) The intermittent use of a site that is not an established airport, which is used or intended to be used for less than one year and at which flight operations will be conducted only under VFR. For the purposes of this part, intermittent use of a site means:
+(1) The site is used or is intended to be used for no more than 3 days in any one week; and 
+(2) No more than 10 operations will be conducted in any one day at that site.
+
+

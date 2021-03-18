@@ -1,0 +1,382 @@
+§ 13.16   Civil Penalties: Administrative assessment against a person other than an individual acting as a pilot, flight engineer, mechanic, or repairman. Administrative assessment against all persons for hazardous materials violations.(a) The FAA uses these procedures when it assesses a civil penalty against a person other than an individual acting as a pilot, flight engineer, mechanic, or repairman for a violation cited in the first sentence of 49 U.S.C. 46301(d)(2) or in 49 U.S.C. 47531, or any implementing rule, regulation or order.
+(b) District court jurisdiction. Notwithstanding the provisions of paragraph (a) of this section, the United States district courts have exclusive jurisdiction of any civil penalty action initiated by the FAA for violations described in those paragraphs, under 49 U.S.C. 46301(d)(4), if - 
+(1) The amount in controversy is more than $50,000 for a violation committed by any person before December 12, 2003;
+(2) The amount in controversy is more than $400,000 for a violation committed by a person other than an individual or small business concern on or after December 12, 2003;
+(3) The amount in controversy is more than $50,000 for a violation committed by an individual or a small business concern on or after December 12, 2003;
+(4) The action is in rem or another action in rem based on the same violation has been brought;
+(5) The action involves an aircraft subject to a lien that has been seized by the Government; or
+(6) Another action has been brought for an injunction based on the same violation.
+(c) Hazardous materials violations. The FAA may assess a civil penalty against any person who knowingly commits an act in violation of 49 U.S.C. chapter 51 or a regulation prescribed or order issued under that chapter, under 49 U.S.C. 5123 and 49 CFR 1.47(k). An order assessing a civil penalty for a violation under 49 U.S.C. chapter 51, or a rule, regulation, or order issued thereunder, is issued only after the following factors have been considered:
+(1) The nature, circumstances, extent, and gravity of the violation;
+(2) With respect to the violator, the degree of culpability, any history of prior violations, the ability to pay, and any effect on the ability to continue to do business; and
+(3) Such other matters as justice may require.
+(d) Order assessing civil penalty. An order assessing civil penalty may be issued for a violation described in paragraphs (a) or (c) of this section, or as otherwise provided by statute, after notice and opportunity for a hearing. A person charged with a violation may be subject to an order assessing civil penalty in the following circumstances:
+(1) An order assessing civil penalty may be issued if a person charged with a violation submits or agrees to submit a civil penalty for a violation.
+(2) An order assessing civil penalty may be issued if a person charged with a violation does not request a hearing under paragraph (g)(2)(ii) of this section within 15 days after receipt of a final notice of proposed civil penalty.
+(3) Unless an appeal is filed with the FAA decisionmaker in a timely manner, an initial decision or order of an administrative law judge shall be considered an order assessing civil penalty if an administrative law judge finds that an alleged violation occurred and determines that a civil penalty, in an amount found appropriate by the administrative law judge, is warranted.
+(4) Unless a petition for review is filed with a U.S. Court of Appeals in a timely manner, a final decision and order of the Administrator shall be considered an order assessing civil penalty if the FAA decisionmaker finds that an alleged violation occurred and a civil penalty is warranted.
+(e) Delegation of authority. (1) The authority of the Administrator under 49 U.S.C. 46301(d), 47531, and 5123, and 49 CFR 1.47(k) to initiate and assess civil penalties for a violation of those statutes or a rule, regulation, or order issued thereunder, is delegated to the Deputy Chief Counsel for Operations; the Assistant Chief Counsel for Enforcement; the Assistant Chief Counsel, Europe, Africa, and Middle East Area Office; the Regional Counsel; the Aeronautical Center Counsel; and the Technical Center Counsel.
+(2) The authority of the Administrator under 49 U.S.C. 5123, 49 CFR 1.47(k), 49 U.S.C. 46301(d), and 49 U.S.C. 46305 to refer cases to the Attorney General of the United States, or the delegate of the Attorney General, for collection of civil penalties is delegated to the Deputy Chief Counsel for Operations; the Assistant Chief Counsel for Enforcement; Assistant Chief Counsel, Europe, Africa, and Middle East Area Office; the Regional Counsel; the Aeronautical Center Counsel; and the Technical Center Counsel.
+(3) The authority of the Administrator under 49 U.S.C. 46301(f) to compromise the amount of a civil penalty imposed is delegated to the Deputy Chief Counsel for Operations; the Assistant Chief Counsel for Enforcement; Assistant Chief Counsel, Europe, Africa, and Middle East Area Office; the Regional Counsel; the Aeronautical Center Counsel; and the Technical Center Counsel.
+(4) The authority of the Administrator under 49 U.S.C. 5123 (e) and (f) and 49 CFR 1.47(k) to compromise the amount of a civil penalty imposed is delegated to the Deputy Chief Counsel for Operations; the Assistant Chief Counsel for Enforcement; Assistant Chief Counsel, Europe, Africa, and Middle East Area Office; the Regional Counsel; the Aeronautical Center Counsel; and the Technical Center Counsel.
+(f) Notice of proposed civil penalty. A civil penalty action is initiated by sending a notice of proposed civil penalty to the person charged with a violation or to the agent for services for the person under 49 U.S.C. 46103. A notice of proposed civil penalty will be sent to the individual charged with a violation or to the president of the corporation or company charged with a violation. In response to a notice of proposed civil penalty, a corporation or company may designate in writing another person to receive documents in that civil penalty action. The notice of proposed civil penalty contains a statement of the charges and the amount of the proposed civil penalty. Not later than 30 days after receipt of the notice of proposed civil penalty, the person charged with a violation shall - 
+(1) Submit the amount of the proposed civil penalty or an agreed-upon amount, in which case either an order assessing civil penalty or compromise order shall be issued in that amount;
+(2) Submit to the agency attorney one of the following:
+(i) Written information, including documents and witness statements, demonstrating that a violation of the regulations did not occur or that a penalty or the amount of the penalty is not warranted by the circumstances.
+(ii) A written request to reduce the proposed civil penalty, the amount of reduction, and the reasons and any documents supporting a reduction of the proposed civil penalty, including records indicating a financial inability to pay or records showing that payment of the proposed civil penalty would prevent the person from continuing in business.
+(iii) A written request for an informal conference to discuss the matter with the agency attorney and to submit relevant information or documents; or
+(3) Request a hearing, in which case a complaint shall be filed with the hearing docket clerk.
+(g) Final notice of proposed civil penalty. A final notice of proposed civil penalty may be issued after participation in informal procedures provided in paragraph (f)(2) of this section or failure to respond in a timely manner to a notice of proposed civil penalty. A final notice of proposed civil penalty will be sent to the individual charged with a violation, to the president of the corporation or company charged with a violation, or a person previously designated in writing by the individual, corporation, or company to receive documents in that civil penalty action. If not previously done in response to a notice of proposed civil penalty, a corporation or company may designate in writing another person to receive documents in that civil penalty action. The final notice of proposed civil penalty contains a statement of the charges and the amount of the proposed civil penalty and, as a result of information submitted to the agency attorney during informal procedures, may modify an allegation or a proposed civil penalty contained in a notice of proposed civil penalty.
+(1) A final notice of proposed civil penalty may be issued - 
+(i) If the person charged with a violation fails to respond to the notice of proposed civil penalty within 30 days after receipt of that notice; or
+(ii) If the parties participated in any informal procedures under paragraph (f)(2) of this section and the parties have not agreed to compromise the action or the agency attorney has not agreed to withdraw the notice of proposed civil penalty.
+(2) Not later than 15 days after receipt of the final notice of proposed civil penalty, the person charged with a violation shall do one of the following - 
+(i) Submit the amount of the proposed civil penalty or an agreed-upon amount, in which case either an order assessing civil penalty or a compromise order shall be issued in that amount; or
+(ii) Request a hearing, in which case a complaint shall be filed with the hearing docket clerk.
+(h) Request for a hearing. Any person charged with a violation may request a hearing, pursuant to paragraph (f)(3) or paragraph (g)(2)(ii) of this section, to be conducted in accordance with the procedures in subpart G of this part. A person requesting a hearing shall file a written request for a hearing with the hearing docket clerk, using the appropriate address set forth in § 13.210(a) of this part, and shall mail a copy of the request to the agency attorney. The request for a hearing may be in the form of a letter but must be dated and signed by the person requesting a hearing. The request for a hearing may be typewritten or may be legibly handwritten.
+(i) Hearing. If the person charged with a violation requests a hearing pursuant to paragraph (f)(3) or paragraph (g)(2)(ii) of this section, the original complaint shall be filed with the hearing docket clerk and a copy shall be sent to the person requesting the hearing. The procedural rules in subpart G of this part apply to the hearing and any appeal. At the close of the hearing, the administrative law judge shall issue, either orally on the record or in writing, an initial decision, including the reasons for the decision, that contains findings or conclusions on the allegations contained, and the civil penalty sought, in the complaint.
+(j) Appeal. Either party may appeal the administrative law judge's initial decision to the FAA decisionmaker pursuant to the procedures in subpart G of this part. If a party files a notice of appeal pursuant to § 13.233 of subpart G, the effectiveness of the initial decision is stayed until a final decision and order of the Administrator have been entered on the record. The FAA decisionmaker shall review the record and issue a final decision and order of the Administrator that affirm, modify, or reverse the initial decision. The FAA decisionmaker may assess a civil penalty but shall not assess a civil penalty in an amount greater than that sought in the complaint.
+(k) Payment. A person shall pay a civil penalty by sending a certified check or money order, payable to the Federal Aviation Administration, to the agency attorney.
+(l) Collection of civil penalties. If an individual does not pay a civil penalty imposed by an order assessing civil penalty or other final order, the Administrator may take action provided under the law to collect the penalty.
+(m) A party may seek review only of a final decision and order of the FAA decisionmaker involving a violation of the Federal aviation statute or the Federal hazardous materials transportation law. Judicial review is in the United States Court of Appeals for the District of Columbia Circuit or the United States court of appeals for the circuit in which the party resides or has the party's principal place of business as provided in § 13.235 of this part. Neither an initial decision or an order issued by an administrative law judge that has not been appealed to the FAA decisionmaker, nor an order compromising a civil penalty action, may be appealed under any of those sections.
+(n) Compromise. The FAA may compromise the amount of any civil penalty imposed under this section, under 49 U.S.C. 5123(e), 46031(f), 46303(b), or 46318 at any time before referring the action to the United States Attorney General, or the delegate of the Attorney General, for collection.
+(1) An agency attorney may compromise any civil penalty action where a person charged with a violation agrees to pay a civil penalty and the FAA agrees not to make a finding of violation. Under such agreement, a compromise order is issued following the payment of the agreed-on amount or the signing of a promissory note. The compromise order states the following:
+(i) The person has paid a civil penalty or has signed a promissory note providing for installment payments.
+(ii) The FAA makes no finding of a violation.
+(iii) The compromise order shall not be used as evidence of a prior violation in any subsequent civil penalty proceeding or certificate action proceeding.
+(2) An agency attorney may compromise the amount of a civil penalty proposed in a notice, assessed in an order, or imposed in a compromise order.
+[Amdt. 13-32; 70 FR 1813, Jan. 11, 2005; 70 FR 2925, Jan. 18, 2005, as amended at 70 FR 8238, Feb. 18, 2005; 71 FR 70464, Dec. 5, 2006]
+
+
+§ 21.133   Application.Each applicant must apply for a production certificate in a form and manner prescribed by the FAA.
+
+
+§ 25.337   Limit maneuvering load factors.(a) Except where limited by maximum (static) lift coefficients, the airplane is assumed to be subjected to symmetrical maneuvers resulting in the limit maneuvering load factors prescribed in this section. Pitching velocities appropriate to the corresponding pull-up and steady turn maneuvers must be taken into account. 
+(b) The positive limit maneuvering load factor n for any speed up to Vn may not be less than 2.1 + 24,000/ (W + 10,000) except that n may not be less than 2.5 and need not be greater than 3.8 - where W is the design maximum takeoff weight. 
+(c) The negative limit maneuvering load factor - 
+(1) May not be less than −1.0 at speeds up to VC; and 
+(2) Must vary linearly with speed from the value at VC to zero at VD. 
+(d) Maneuvering load factors lower than those specified in this section may be used if the airplane has design features that make it impossible to exceed these values in flight. 
+[Doc. No. 5066, 29 FR 18291, Dec. 24, 1964, as amended by Amdt. 25-23, 35 FR 5672, Apr. 8, 1970] 
+
+
+§ 25.841   Pressurized cabins.(a) Pressurized cabins and compartments to be occupied must be equipped to provide a cabin pressure altitude of not more than 8,000 feet at the maximum operating altitude of the airplane under normal operating conditions.
+(1) If certification for operation above 25,000 feet is requested, the airplane must be designed so that occupants will not be exposed to cabin pressure altitudes in excess of 15,000 feet after any probable failure condition in the pressurization system.
+(2) The airplane must be designed so that occupants will not be exposed to a cabin pressure altitude that exceeds the following after decompression from any failure condition not shown to be extremely improbable:
+(i) Twenty-five thousand (25,000) feet for more than 2 minutes; or
+(ii) Forty thousand (40,000) feet for any duration.
+(3) Fuselage structure, engine and system failures are to be considered in evaluating the cabin decompression.
+(b) Pressurized cabins must have at least the following valves, controls, and indicators for controlling cabin pressure: 
+(1) Two pressure relief valves to automatically limit the positive pressure differential to a predetermined value at the maximum rate of flow delivered by the pressure source. The combined capacity of the relief valves must be large enough so that the failure of any one valve would not cause an appreciable rise in the pressure differential. The pressure differential is positive when the internal pressure is greater than the external. 
+(2) Two reverse pressure differential relief valves (or their equivalents) to automatically prevent a negative pressure differential that would damage the structure. One valve is enough, however, if it is of a design that reasonably precludes its malfunctioning. 
+(3) A means by which the pressure differential can be rapidly equalized. 
+(4) An automatic or manual regulator for controlling the intake or exhaust airflow, or both, for maintaining the required internal pressures and airflow rates. 
+(5) Instruments at the pilot or flight engineer station to show the pressure differential, the cabin pressure altitude, and the rate of change of the cabin pressure altitude. 
+(6) Warning indication at the pilot or flight engineer station to indicate when the safe or preset pressure differential and cabin pressure altitude limits are exceeded. Appropriate warning markings on the cabin pressure differential indicator meet the warning requirement for pressure differential limits and an aural or visual signal (in addition to cabin altitude indicating means) meets the warning requirement for cabin pressure altitude limits if it warns the flight crew when the cabin pressure altitude exceeds 10,000 feet. 
+(7) A warning placard at the pilot or flight engineer station if the structure is not designed for pressure differentials up to the maximum relief valve setting in combination with landing loads. 
+(8) The pressure sensors necessary to meet the requirements of paragraphs (b)(5) and (b)(6) of this section and § 25.1447(c), must be located and the sensing system designed so that, in the event of loss of cabin pressure in any passenger or crew compartment (including upper and lower lobe galleys), the warning and automatic presentation devices, required by those provisions, will be actuated without any delay that would significantly increase the hazards resulting from decompression. 
+[Doc. No. 5066, 29 FR 18291, Dec. 24, 1964, as amended by Amdt. 25-38, 41 FR 55466, Dec. 20, 1976; Amdt. 25-87, 61 FR 28696, June 5, 1996] 
+
+
+§ 25.899   Electrical bonding and protection against static electricity.(a) Electrical bonding and protection against static electricity must be designed to minimize accumulation of electrostatic charge that would cause - 
+(1) Human injury from electrical shock,
+(2) Ignition of flammable vapors, or
+(3) Interference with installed electrical/electronic equipment.
+(b) Compliance with paragraph (a) of this section may be shown by - 
+(1) Bonding the components properly to the airframe; or
+(2) Incorporating other acceptable means to dissipate the static charge so as not to endanger the airplane, personnel, or operation of the installed electrical/electronic systems.
+[Amdt. 25-123, 72 FR 63405, Nov. 8, 2007]
+
+
+§ 25.979   Pressure fueling system.For pressure fueling systems, the following apply:
+(a) Each pressure fueling system fuel manifold connection must have means to prevent the escape of hazardous quantities of fuel from the system if the fuel entry valve fails. 
+(b) An automatic shutoff means must be provided to prevent the quantity of fuel in each tank from exceeding the maximum quantity approved for that tank. This means must - 
+(1) Allow checking for proper shutoff operation before each fueling of the tank; and 
+(2) Provide indication at each fueling station of failure of the shutoff means to stop the fuel flow at the maximum quantity approved for that tank. 
+(c) A means must be provided to prevent damage to the fuel system in the event of failure of the automatic shutoff means prescribed in paragraph (b) of this section. 
+(d) The airplane pressure fueling system (not including fuel tanks and fuel tank vents) must withstand an ultimate load that is 2.0 times the load arising from the maximum pressures, including surge, that is likely to occur during fueling. The maximum surge pressure must be established with any combination of tank valves being either intentionally or inadvertently closed. 
+(e) The airplane defueling system (not including fuel tanks and fuel tank vents) must withstand an ultimate load that is 2.0 times the load arising from the maximum permissible defueling pressure (positive or negative) at the airplane fueling connection. 
+[Amdt. 25-11, 32 FR 6913, May 5, 1967, as amended by Amdt. 25-38, 41 FR 55467, Dec. 20, 1976; Amdt. 25-72, 55 FR 29785, July 20, 1990] 
+
+
+§ 25.997   Fuel strainer or filter.There must be a fuel strainer or filter between the fuel tank outlet and the inlet of either the fuel metering device or an engine driven positive displacement pump, whichever is nearer the fuel tank outlet. This fuel strainer or filter must - 
+(a) Be accessible for draining and cleaning and must incorporate a screen or element which is easily removable; 
+(b) Have a sediment trap and drain except that it need not have a drain if the strainer or filter is easily removable for drain purposes; 
+(c) Be mounted so that its weight is not supported by the connecting lines or by the inlet or outlet connections of the strainer or filter itself, unless adequate strength margins under all loading conditions are provided in the lines and connections; and
+(d) Have the capacity (with respect to operating limitations established for the engine) to ensure that engine fuel system functioning is not impaired, with the fuel contaminated to a degree (with respect to particle size and density) that is greater than that established for the engine in Part 33 of this chapter. 
+[Amdt. 25-36, 39 FR 35460, Oct. 1, 1974, as amended by Amdt. 25-57, 49 FR 6848, Feb. 23, 1984] 
+
+
+§ 25.1729   Instructions for Continued Airworthiness: EWIS.The applicant must prepare Instructions for Continued Airworthiness applicable to EWIS in accordance with Appendix H sections H25.4 and H25.5 to this part that are approved by the FAA.
+
+
+§ 27.309   Design limitations.The following values and limitations must be established to show compliance with the structural requirements of this subpart: 
+(a) The design maximum weight. 
+(b) The main rotor r.p.m. ranges power on and power off. 
+(c) The maximum forward speeds for each main rotor r.p.m. within the ranges determined under paragraph (b) of this section. 
+(d) The maximum rearward and sideward flight speeds. 
+(e) The center of gravity limits corresponding to the limitations determined under paragraphs (b), (c), and (d) of this section. 
+(f) The rotational speed ratios between each powerplant and each connected rotating component. 
+(g) The positive and negative limit maneuvering load factors. 
+
+
+§ 27.853   Compartment interiors.For each compartment to be used by the crew or passengers - 
+(a) The materials must be at least flame-resistant; 
+(b) [Reserved]
+(c) If smoking is to be prohibited, there must be a placard so stating, and if smoking is to be allowed - 
+(1) There must be an adequate number of self-contained, removable ashtrays; and 
+(2) Where the crew compartment is separated from the passenger compartment, there must be at least one illuminated sign (using either letters or symbols) notifying all passengers when smoking is prohibited. Signs which notify when smoking is prohibited must - 
+(i) When illuminated, be legible to each passenger seated in the passenger cabin under all probable lighting conditions; and 
+(ii) Be so constructed that the crew can turn the illumination on and off.
+[Amdt. 27-17, 45 FR 7755, Feb. 4, 1980, as amended by Amdt. 27-37, 64 FR 45095, Aug. 18, 1999] 
+
+
+§ 29.1   Applicability.(a) This part prescribes airworthiness standards for the issue of type certificates, and changes to those certificates, for transport category rotorcraft.
+(b) Transport category rotorcraft must be certificated in accordance with either the Category A or Category B requirements of this part. A multiengine rotorcraft may be type certificated as both Category A and Category B with appropriate and different operating limitations for each category.
+(c) Rotorcraft with a maximum weight greater than 20,000 pounds and 10 or more passenger seats must be type certificated as Category A rotorcraft.
+(d) Rotorcraft with a maximum weight greater than 20,000 pounds and nine or less passenger seats may be type certificated as Category B rotorcraft provided the Category A requirements of Subparts C, D, E, and F of this part are met.
+(e) Rotorcraft with a maximum weight of 20,000 pounds or less but with 10 or more passenger seats may be type certificated as Category B rotorcraft provided the Category A requirements of §§ 29.67(a)(2), 29.87, 29.1517, and subparts C, D, E, and F of this part are met.
+(f) Rotorcraft with a maximum weight of 20,000 pounds or less and nine or less passenger seats may be type certificated as Category B rotorcraft.
+(g) Each person who applies under Part 21 for a certificate or change described in paragraphs (a) through (f) of this section must show compliance with the applicable requirements of this part.
+[Amdt. 29-21, 48 FR 4391, Jan. 31, 1983, as amended by Amdt. 29-39, 61 FR 21898, May 10, 1996; 61 FR 33963, July 1, 1996] 
+
+
+§ 29.623   Bearing factors.(a) Except as provided in paragraph (b) of this section, each part that has clearance (free fit), and that is subject to pounding or vibration, must have a bearing factor large enough to provide for the effects of normal relative motion. 
+(b) No bearing factor need be used on a part for which any larger special factor is prescribed. 
+
+
+§ 29.723   Shock absorption tests.The landing inertia load factor and the reserve energy absorption capacity of the landing gear must be substantiated by the tests prescribed in §§ 29.725 and 29.727, respectively. These tests must be conducted on the complete rotorcraft or on units consisting of wheel, tire, and shock absorber in their proper relation. 
+
+
+§ 29.729   Retracting mechanism.For rotorcraft with retractable landing gear, the following apply:
+(a) Loads. The landing gear, retracting mechanism, wheel well doors, and supporting structure must be designed for - 
+(1) The loads occurring in any maneuvering condition with the gear retracted; 
+(2) The combined friction, inertia, and air loads occurring during retraction and extension at any airspeed up to the design maximum landing gear operating speed; and 
+(3) The flight loads, including those in yawed flight, occurring with the gear extended at any airspeed up to the design maximum landing gear extended speed. 
+(b) Landing gear lock. A positive means must be provided to keep the gear extended. 
+(c) Emergency operation. When other than manual power is used to operate the gear, emergency means must be provided for extending the gear in the event of - 
+(1) Any reasonably probable failure in the normal retraction system; or 
+(2) The failure of any single source of hydraulic, electric, or equivalent energy. 
+(d) Operation tests. The proper functioning of the retracting mechanism must be shown by operation tests. 
+(e) Position indicator. There must be means to indicate to the pilot when the gear is secured in the extreme positions. 
+(f) Control. The location and operation of the retraction control must meet the requirements of §§ 29.777 and 29.779.
+(g) Landing gear warning. An aural or equally effective landing gear warning device must be provided that functions continuously when the rotorcraft is in a normal landing mode and the landing gear is not fully extended and locked. A manual shutoff capability must be provided for the warning device and the warning system must automatically reset when the rotorcraft is no longer in the landing mode.
+[Doc. No. 5084, 29 FR 16150, Dec. 3, 1964, as amended by Amdt. 29-24, 49 FR 44437, Nov. 6, 1984] 
+
+
+§ 29.997   Fuel strainer or filter.There must be a fuel strainer or filter between the fuel tank outlet and the inlet of the first fuel system component which is susceptible to fuel contamination, including but not limited to the fuel metering device or an engine positive displacement pump, whichever is nearer the fuel tank outlet. This fuel strainer or filter must -  
+(a) Be accessible for draining and cleaning and must incorporate a screen or element which is easily removable; 
+(b) Have a sediment trap and drain, except that it need not have a drain if the strainer or filter is easily removable for drain purposes; 
+(c) Be mounted so that its weight is not supported by the connecting lines or by the inlet or outlet connections of the strainer or filter inself, unless adequate strengh margins under all loading conditions are provided in the lines and connections; and 
+(d) Provide a means to remove from the fuel any contaminant which would jeopardize the flow of fuel through rotorcraft or engine fuel system components required for proper rotorcraft or engine fuel system operation. 
+[Amdt. 29-10, 39 FR 35462, Oct. 1, 1974, as amended by Amdt. 29-22, 49 FR 6850, Feb. 23, 1984; Amdt. 29-26, 53 FR 34217, Sept. 2, 1988] 
+
+
+§ 29.1023   Oil radiators.(a) Each oil radiator must be able to withstand any vibration, inertia, and oil pressure loads to which it would be subjected in operation. 
+(b) Each oil radiator air duct must be located, or equipped, so that, in case of fire, and with the airflow as it would be with and without the engine operating, flames cannot directly strike the radiator. 
+
+
+§ 29.1589   Loading information.There must be loading instructions for each possible loading condition between the maximum and minimum weights determined under § 29.25 that can result in a center of gravity beyond any extreme prescribed in § 29.27, assuming any probable occupant weights. 
+
+
+§ 31.81   General.(a) The following information must be established: 
+(1) Each operating limitation, including the maximum weight determined under § 31.14. 
+(2) The normal and emergency procedures. 
+(3) Other information necessary for safe operation, including - 
+(i) The empty weight determined under § 31.16; 
+(ii) The rate of climb determined under § 31.17, and the procedures and conditions used to determine performance; 
+(iii) The maximum vertical velocity, the altitude drop required to attain that velocity, and altitude drop required to recover from a descent at that velocity, determined under § 31.19, and the procedures and conditions used to determine performance; and 
+(iv) Pertinent information peculiar to the balloon's operating characteristics. 
+(b) The information established in compliance with paragraph (a) of this section must be furnished by means of - 
+(1) A Balloon Flight Manual; or 
+(2) A placard on the balloon that is clearly visible to the pilot. 
+[Amdt. 31-4, 45 FR 60180, Sept. 11, 1980]
+
+
+§§ 34.61-34.71   [Reserved]§ 65.55   Knowledge requirements.(a) A person who applies for an aircraft dispatcher certificate must pass a knowledge test on the following aeronautical knowledge areas:
+(1) Applicable Federal Aviation Regulations of this chapter that relate to airline transport pilot privileges, limitations, and flight operations;
+(2) Meteorology, including knowledge of and effects of fronts, frontal characteristics, cloud formations, icing, and upper-air data;
+(3) General system of weather and NOTAM collection, dissemination, interpretation, and use;
+(4) Interpretation and use of weather charts, maps, forecasts, sequence reports, abbreviations, and symbols;
+(5) National Weather Service functions as they pertain to operations in the National Airspace System;
+(6) Windshear and microburst awareness, identification, and avoidance;
+(7) Principles of air navigation under instrument meteorological conditions in the National Airspace System;
+(8) Air traffic control procedures and pilot responsibilities as they relate to enroute operations, terminal area and radar operations, and instrument departure and approach procedures;
+(9) Aircraft loading, weight and balance, use of charts, graphs, tables, formulas, and computations, and their effect on aircraft performance;
+(10) Aerodynamics relating to an aircraft's flight characteristics and performance in normal and abnormal flight regimes;
+(11) Human factors;
+(12) Aeronautical decision making and judgment; and
+(13) Crew resource management, including crew communication and coordination.
+(b) The applicant must present documentary evidence satisfactory to the administrator of having passed an aircraft dispatcher knowledge test within the preceding 24 calendar months.
+
+
+§ 65.71   Eligibility requirements: General.(a) To be eligible for a mechanic certificate and associated ratings, a person must - 
+(1) Be at least 18 years of age; 
+(2) Be able to read, write, speak, and understand the English language, or in the case of an applicant who does not meet this requirement and who is employed outside of the United States by a U.S. air carrier, have his certificate endorsed “Valid only outside the United States”; 
+(3) Have passed all of the prescribed tests within a period of 24 months; and 
+(4) Comply with the sections of this subpart that apply to the rating he seeks. 
+(b) A certificated mechanic who applies for an additional rating must meet the requirements of § 65.77 and, within a period of 24 months, pass the tests prescribed by §§ 65.75 and 65.79 for the additional rating sought. 
+[Doc. No. 1179, 27 FR 7973, Aug. 10, 1962, as amended by Amdt. 65-6, 31 FR 5950, Apr. 19, 1966]
+
+
+§ 67.213   General medical condition.The general medical standards for a second-class airman medical certificate are: 
+(a) No established medical history or clinical diagnosis of diabetes mellitus that requires insulin or any other hypoglycemic drug for control. 
+(b) No other organic, functional, or structural disease, defect, or limitation that the Federal Air Surgeon, based on the case history and appropriate, qualified medical judgment relating to the condition involved, finds -  
+(1) Makes the person unable to safely perform the duties or exercise the privileges of the airman certificate applied for or held; or 
+(2) May reasonably be expected, for the maximum duration of the airman medical certificate applied for or held, to make the person unable to perform those duties or exercise those privileges. 
+(c) No medication or other treatment that the Federal Air Surgeon, based on the case history and appropriate, qualified medical judgment relating to the medication or other treatment involved, finds -  
+(1) Makes the person unable to safely perform the duties or exercise the privileges of the airman certificate applied for or held; or 
+(2) May reasonably be expected, for the maximum duration of the airman medical certificate applied for or held, to make the person unable to perform those duties or exercise those privileges. 
+
+
+§ 91.1021   Internal safety reporting and incident/accident response.(a) Each program manager must establish an internal anonymous safety reporting procedure that fosters an environment of safety without any potential for retribution for filing the report. 
+(b) Each program manager must establish procedures to respond to an aviation incident/accident. 
+
+
+§ 91.1433   CAMP: Maintenance and preventive maintenance training program.Each program manager who maintains program aircraft under a CAMP or a person performing maintenance or preventive maintenance functions for it must have a training program to ensure that each person (including inspection personnel) who determines the adequacy of work done is fully informed about procedures and techniques and new equipment in use and is competent to perform that person's duties. 
+
+
+§ 93.213   Definitions and general provisions.(a) For purposes of this subpart - 
+(1) New entrant carrier means a commuter operator or air carrier which does not hold a slot at a particular airport and has never sold or given up a slot at that airport after December 16, 1985.
+(2) Slot means the operational authority to conduct one IFR landing or takeoff operation each day during a specific hour or 30 minute period at one of the High Density Traffic Airports, as specified in subpart K of this part.
+(3) Summer season means the period of time from the first Sunday in April until the last Sunday in October. 
+(4) Winter season means the period of time from the last Sunday in October until the first Sunday in April. 
+(5) Limited incumbent carrier means an air carrier or commuter operator that holds or operates fewer than 12 air carrier or commuter slots, in any combination, at a particular airport, not including international slots, Essential Air Service Program slots, or slots between the hours of 2200 and 0659 at Washington National Airport or LaGuardia Airport. However, for the purposes of this paragraph (a)(5), the carrier is considered to hold the number of slots at that airport that the carrier has, since December 16, 1985:
+(i) Returned to the FAA;
+(ii) Had recalled by the FAA under § 93.227(a); or
+(iii) Transferred to another party other than by trade for one or more slots at the same airport.
+(b) The definitions specified in subpart K of this part also apply to this subpart.
+(c) For purposes of this subpart, if an air carrier, commuter operator, or other person has more than a 50-percent ownership or control of one or more other air carriers, commuter operators, or other persons, they shall be considered to be a single air carrier, commuter operator, or person. In addition, if a single company has more than a 50-percent ownership or control of two or more air carriers and/or commuter operators or any combination thereof, those air carriers and/or commuter operators shall be considered to be a single operator. A single operator may be considered to be both an air carrier and commuter operator for purposes of this subpart.
+[Doc. No. 24105, 50 FR 52195, Dec. 20, 1985, as amended by Amdt. 93-52, 51 FR 21717, June 13, 1986; Amdt. 93-57, 54 FR 34906, Aug. 22, 1989; 54 FR 37303, Sept. 8, 1989; Amdt. 93-65, 57 FR 37314, Aug. 18, 1992]
+
+
+§ 101.35   Equipment and marking requirements.(a) No person may operate an unmanned free balloon unless - 
+(1) It is equipped with at least two payload cut-down systems or devices that operate independently of each other; 
+(2) At least two methods, systems, devices, or combinations thereof, that function independently of each other, are employed for terminating the flight of the balloon envelope; and 
+(3) The balloon envelope is equipped with a radar reflective device(s) or material that will present an echo to surface radar operating in the 200 MHz to 2700 MHz frequency range. 
+The operator shall activate the appropriate devices required by paragraphs (a) (1) and (2) of this section when weather conditions are less than those prescribed for operation under this subpart, or if a malfunction or any other reason makes the further operation hazardous to other air traffic or to persons and property on the surface. 
+(b) No person may operate an unmanned free balloon below 60,000 feet standard pressure altitude between sunset and sunrise (as corrected to the altitude of operation) unless the balloon and its attachments and payload, whether or not they become separated during the operation, are equipped with lights that are visible for at least 5 miles and have a flash frequency of at least 40, and not more than 100, cycles per minute. 
+(c) No person may operate an unmanned free balloon that is equipped with a trailing antenna that requires an impact force of more than 50 pounds to break it at any point, unless the antenna has colored pennants or streamers that are attached at not more than 50 foot intervals and that are visible for at least one mile. 
+(d) No person may operate between sunrise and sunset an unmanned free balloon that is equipped with a suspension device (other than a highly conspicuously colored open parachute) more than 50 feet along, unless the suspension device is colored in alternate bands of high conspicuity colors or has colored pennants or streamers attached which are visible for at least one mile. 
+(Sec. 6(c), Department of Transportation Act (49 U.S.C. 1655(c)))
+[Doc. No. 1457, 29 FR 47, Jan. 3, 1964, as amended by Amdt. 101-2, 32 FR 5254, Mar. 29, 1967; Amdt. 101-4, 39 FR 22252, June 21, 1974] 
+
+
+§ 121.316   Fuel tanks.Each turbine powered transport category airplane operated after October 30, 1991, must meet the requirements of § 25.963(e) of this chapter in effect on October 30, 1989.
+[Doc. No. 25614, 54 FR 40354, Sept. 29, 1989]
+
+
+§ 121.589   Carry-on baggage.(a) No certificate holder may allow the boarding of carry-on baggage on an airplane unless each passenger's baggage has been scanned to control the size and amount carried on board in accordance with an approved carry-on baggage program in its operations specifications. In addition, no passenger may board an airplane if his/her carry-on baggage exceeds the baggage allowance prescribed in the carry-on baggage program in the certificate holder's operations specifications.
+(b) No certificate holder may allow all passenger entry doors of an airplane to be closed in preparation for taxi or pushback unless at least one required crewmember has verified that each article of baggage is stowed in accordance with this section and § 121.285 (c) and (d).
+(c) No certificate holder may allow an airplane to take off or land unless each article of baggage is stowed:
+(1) In a suitable closet or baggage or cargo stowage compartment placarded for its maximum weight and providing proper restraint for all baggage or cargo stowed within, and in a manner that does not hinder the possible use of any emergency equipment; or
+(2) As provided in § 121.285 (c) and (d); or
+(3) Under a passenger seat.
+(d) Baggage, other than articles of loose clothing, may not be placed in an overhead rack unless that rack is equipped with approved restraining devices or doors.
+(e) Each passenger must comply with instructions given by crewmembers regarding compliance with paragraphs (a), (b), (c), (d), and (g) of this section.
+(f) Each passenger seat under which baggage is allowed to be stowed shall be fitted with a means to prevent articles of baggage stowed under it from sliding forward. In addition, each aisle seat shall be fitted with a means to prevent articles of baggage stowed under it from sliding sideward into the aisle under crash impacts severe enough to induce the ultimate inertia forces specified in the emergency landing condition regulations under which the airplane was type certificated.
+(g) In addition to the methods of stowage in paragraph (c) of this section, flexible travel canes carried by blind individuals may be stowed - 
+(1) Under any series of connected passenger seats in the same row, if the cane does not protrude into an aisle and if the cane is flat on the floor; or
+(2) Between a nonemergency exit window seat and the fuselage, if the cane is flat on the floor; or
+(3) Beneath any two nonemergency exit window seats, if the cane is flat on the floor; or
+(4) In accordance with any other method approved by the Administrator.
+[Doc. No. 24996, 52 FR 21476, June 5, 1987, as amended by Amdt. 121-251, 60 FR 65935, Dec. 20, 1995]
+
+
+§ 121.643   Fuel supply: Nonturbine and turbo-propeller-powered airplanes: Supplemental operations.(a) Except as provided in paragraph (b) of this section, no person may release for flight or takeoff a nonturbine or turbo-propeller-powered airplane unless, considering the wind and other weather conditions expected, it has enough fuel - 
+(1) To fly to and land at the airport to which it is released; 
+(2) Thereafter, to fly to and land at the most distant alternate airport specified in the flight release; and 
+(3) Thereafter, to fly for 45 minutes at normal cruising fuel consumption or, for certificate holders who are authorized to conduct day VFR operations in their operations specifications and who are operating nontransport category airplanes type certificated after December 31, 1964, to fly for 30 minutes at normal cruising fuel consumption for day VFR operations. 
+(b) If the airplane is released for any flight other than from one point in the contiguous United States to another point in the contiguous United States, it must carry enough fuel to meet the requirements of paragraphs (a) (1) and (2) of this section and thereafter fly for 30 minutes plus 15 percent of the total time required to fly at normal cruising fuel consumption to the airports specified in paragraphs (a) (1) and (2) of this section, or to fly for 90 minutes at normal cruising fuel consumption, whichever is less. 
+(c) No person may release a nonturbine or turbo-propeller-powered airplane to an airport for which an alternate is not specified under § 121.623(b), unless it has enough fuel, considering wind and other weather conditions expected, to fly to that airport and thereafter to fly for three hours at normal cruising fuel consumption. 
+[Doc. No. 6258, 29 FR 19222, Dec. 31, 1964, as amended by Amdt. 121-10, 30 FR 10025, Aug. 12, 1965; Amdt. 121-251, 60 FR 65935, Dec. 20, 1995] 
+
+
+§ 125.47   Change of address.Each certificate holder shall notify the responsible Flight Standards office charged with the overall inspection of its operations, in writing, at least 30 days in advance, of any change in the address of its principal business office, its principal operations base, or its principal maintenance base. 
+[Docket No. 19779, 45 FR 67235, Oct. 9, 1980, as amended by Docket FAA-2018-0119, Amdt. 125-68, 83 FR 9173, Mar. 5, 2018]
+
+
+§ 125.173   Fire detectors.Fire detectors must be made and installed in a manner that assures their ability to resist, without failure, all vibration, inertia, and other loads to which they may be normally subjected. Fire detectors must be unaffected by exposure to fumes, oil, water, or other fluids that may be present. 
+
+
+§ 125.183   Carriage of cargo in passenger compartments.(a) Except as provided in paragraph (b) or (c) of this section, no certificate holder may carry cargo in the passenger compartment of an airplane. 
+(b) Cargo may be carried aft of the foremost seated passengers if it is carried in an approved cargo bin that meets the following requirements: 
+(1) The bin must withstand the load factors and emergency landing conditions applicable to the passenger seats of the airplane in which the bin is installed, multiplied by a factor of 1.15, using the combined weight of the bin and the maximum weight of cargo that may be carried in the bin. 
+(2) The maximum weight of cargo that the bin is approved to carry and any instructions necessary to ensure proper weight distribution within the bin must be conspicuously marked on the bin. 
+(3) The bin may not impose any load on the floor or other structure of the airplane that exceeds the load limitations of that structure. 
+(4) The bin must be attached to the seat tracks or to the floor structure of the airplane, and its attachment must withstand the load factors and emergency landing conditions applicable to the passenger seats of the airplane in which the bin is installed, multiplied by either the factor 1.15 or the seat attachment factor specified for the airplane, whichever is greater, using the combined weight of the bin and the maximum weight of cargo that may be carried in the bin. 
+(5) The bin may not be installed in a position that restricts access to or use of any required emergency exit, or of the aisle in the passenger compartment. 
+(6) The bin must be fully enclosed and made of material that is at least flame-resistant. 
+(7) Suitable safeguards must be provided within the bin to prevent the cargo from shifting under emergency landing conditions. 
+(8) The bin may not be installed in a position that obscures any passenger's view of the “seat belt” sign, “no smoking” sign, or any required exit sign, unless an auxiliary sign or other approved means for proper notification of the passenger is provided. 
+(c) All cargo may be carried forward of the foremost seated passengers and carry-on baggage may be carried alongside the foremost seated passengers if the cargo (including carry-on baggage) is carried either in approved bins as specified in paragraph (b) of this section or in accordance with the following: 
+(1) It is properly secured by a safety belt or other tie down having enough strength to eliminate the possibility of shifting under all normally anticipated flight and ground conditions. 
+(2) It is packaged or covered in a manner to avoid possible injury to passengers. 
+(3) It does not impose any load on seats or the floor structure that exceeds the load limitation for those components. 
+(4) Its location does not restrict access to or use of any required emergency or regular exit, or of the aisle in the passenger compartment. 
+(5) Its location does not obscure any passenger's view of the “seat belt” sign, “no smoking” sign, or required exit sign, unless an auxiliary sign or other approved means for proper notification of the passenger is provided. 
+
+
+§ 125.269   Flight attendants.(a) Each certificate holder shall provide at least the following flight attendants on each passenger-carrying airplane used: 
+(1) For airplanes having more than 19 but less than 51 passengers - one flight attendant. 
+(2) For airplanes having more than 50 but less than 101 passengers - two flight attendants. 
+(3) For airplanes having more than 100 passengers - two flight attendants plus one additional flight attendant for each unit (or part of a unit) of 50 passengers above 100 passengers. 
+(b) The number of flight attendants approved under paragraphs (a) and (b) of this section are set forth in the certificate holder's operations specifications. 
+(c) During takeoff and landing, flight attendants required by this section shall be located as near as practicable to required floor level exits and shall be uniformly distributed throughout the airplane to provide the most effective egress of passengers in event of an emergency evacuation. 
+
+
+§ 129.23   Transport category cargo service airplanes: Increased zero fuel and landing weights.(a) Notwithstanding the applicable structural provisions of the transport category airworthiness regulations, but subject to paragraphs (b) through (g) of this section, a foreign air carrier may operate (for cargo service only) any of the following transport category airplanes (certificated under part 4b of the Civil Air Regulations effective before March 13, 1956) at increased zero fuel and landing weights - 
+(1) DC-6A, DC-6B, DC-7B, and DC-7C; and 
+(2) L-1049 B, C, D, E, F, G, and H, and the L-1649A when modified in accordance with supplemental type certificate SA 4-1402. 
+(b) The zero fuel weight (maximum weight of the airplane with no disposable fuel and oil) and the structural landing weight may be increased beyond the maximum approved in full compliance with applicable rules only if the Administrator finds that - 
+(1) The increase is not likely to reduce seriously the structural strength; 
+(2) The probability of sudden fatigue failure is not noticeably increased; 
+(3) The flutter, deformation, and vibration characteristics do not fall below those required by applicable regulations; and 
+(4) All other applicable weight limitations will be met. 
+(c) No zero fuel weight may be increased by more than five percent, and the increase in the structural landing weight may not exceed the amount, in pounds, of the increase in zero fuel weight. 
+(d) Each airplane must be inspected in accordance with the approved special inspection procedures, for operations at increased weights, established and issued by the manufacturer of the type of airplane. 
+(e) A foreign air carrier may not operate an airplane under this section unless the country of registry requires the airplane to be operated in accordance with the passenger-carrying transport category performance operating limitations in part 121 or the equivalent. 
+(f) The Airplane Flight Manual for each airplane operated under this section must be appropriately revised to include the operating limitations and information needed for operation at the increased weights. 
+(g) Each airplane operated at an increased weight under this section must, before it is used in passenger service, be inspected under the special inspection procedures for return to passenger service established and issued by the manufacturer and approved by the Administrator. 
+[Doc. No. 6403, 29 FR 19098, Dec. 30, 1964]
+
+
+§ 135.369   Large transport category airplanes: Reciprocating engine powered: En route limitations: All engines operating.(a) No person operating a reciprocating engine powered large transport category airplane may take off that airplane at a weight, allowing for normal consumption of fuel and oil, that does not allow a rate of climb (in feet per minute), with all engines operating, of at least 6.90 Vso (that is, the number of feet per minute obtained by multiplying the number of knots by 6.90) at an altitude of a least 1,000 feet above the highest ground or obstruction within ten miles of each side of the intended track. 
+(b) This section does not apply to large transport category airplanes certificated under part 4a of the Civil Air Regulations. 
+
+
+§ 141.29   [Reserved]§ 142.15   Facilities.(a) An applicant for, or holder of, a training center certificate shall ensure that -  
+(1) Each room, training booth, or other space used for instructional purposes is heated, lighted, and ventilated to conform to local building, sanitation, and health codes; and
+(2) The facilities used for instruction are not routinely subject to significant distractions caused by flight operations and maintenance operations at the airport.
+(b) An applicant for, or holder of, a training center certificate shall establish and maintain a principal business office that is physically located at the address shown on its training center certificate. 
+(c) The records required to be maintained by this part must be located in facilities adequate for that purpose.
+(d) An applicant for, or holder of, a training center certificate must have available exclusively, for adequate periods of time and at a location approved by the Administrator, adequate flight training equipment and courseware, including at least one flight simulator or advanced flight training device.
+[Doc. No. 26933, 61 FR 34562, July 2, 1996, as amended by Amdt. 142-3, 63 FR 53537, Oct. 5, 1998]
+
+
+§ 171.103   Requests for IFR procedure.(a) Each person who requests an IFR procedure based on an SDF that he owns must submit the following information with that request: 
+(1) A description of the facility and evidence that the equipment meets the performance requirements of § 171.109 and the standards and tolerances of § 171.111, and is installed in accordance with § 171.113. 
+(2) A proposed procedure for operating the facility. 
+(3) A proposed maintenance organization and a maintenance manual that meets the requirements of § 171.115. 
+(4) A statement of intent to meet the requirements of this subpart. 
+(5) A showing that the facility has an acceptable level of operational reliability as prescribed in § 171.111(k), and an acceptable standard of performance. Previous equivalent operational experience with a facility with identical design and operational characteristics will be considered in showing compliance with this paragraph. 
+(b) After the Federal Aviation Administration inspects and evaluates the facility, it advises the owner of the results and of any required changes in the facility or the maintenance manual or maintenance organization. The owner must then correct the deficiencies, if any, and operate the facility for an in-service evaluation by the Federal Aviation Administration. 
+
+
+§ 171.159   Installation requirements.(a) The facility must be installed according to accepted good engineering practices, applicable electric and safety codes, and Federal Communications Commission requirements. 
+(b) The facility must have a reliable source of suitable primary power, either from a power distribution system or locally generated, with a supplemental standby system, if needed. 
+(c) Dual transmitting equipment with automatic changeover is preferred and may be required to support certain IFR procedures. 
+(d) There must be a means for determining from the ground, the performance of the equipment, initially and periodically. 
+(e) A facility intended for use as an instrument approach aid for an airport must have or be supplemented by the following ground air or landline communications services: 
+(1) At facilities outside of and not immediately adjacent to controlled airspace, there must be ground-air communications from the airport served by the facility. Separate communications channels are acceptable.
+(2) At facilities within or immediately adjacent to controlled airspace, there must be the ground-air communications required by paragraph (e)(1) of this section and reliable communications (at least a landline telephone) from the airport to the nearest Federal Aviation Administration air traffic control or communications facility. Separate communications channels are acceptable.
+Compliance with paragraphs (e) (1) and (2) of this section need not be shown at airports where an adjacent Federal Aviation Administration facility can communicate with aircraft on the ground at the airport and during the entire proposed instrument approach procedure. In addition, at low traffic density airports within or immediately adjacent to controlled airspace, and where extensive delays are not a factor, the requirements of paragraphs (e) (1) and (2) of this section may be reduced to reliable communications (at least a landline telephone) from the airport to the nearest Federal Aviation Administration air traffic control or communications facility, if an adjacent Federal Aviation Administration facility can communicate with aircraft during the proposed instrument approach procedure, at least down to the minimum en route altitude for the controlled airspace area.
+[Doc. No. 10116, 35 FR 12715, Aug. 11, 1970, as amended by Amdt. 171-16, 56 FR 65665, Dec. 17, 1991]
+
+
+§ 171.327   Operational records.The owner of the MLS facility or his maintenance representative must submit the following operational records at the indicated time to the appropriate FAA regional office where the facility is located.
+(a) Facility Equipment Performance & Adjustment Data (FAA Form 198). The FAA Form 198 shall be filled out by the owner or his maintenance representative with the equipment adjustments and meter readings as of the time of facility commissioning. One copy must be kept in the permanent records of the facility and two copies must be sent to the appropriate FAA regional office. The owner or his maintenance representative must revise the FAA Form 198 data after any major repair, modernization, or retuning to reflect an accurate record of facility operation and adjustment.
+(b) Facility Maintenance Log (FAA Form 6030-1). FAA Form 6030-1 is permanent record of all the activities required to maintain the MLS facility. The entries must include all malfunctions met in maintaining the facility including information on the kind of work and adjustments made, equipment failures, causes (if determined) and corrective action taken. In addition, the entries must include completion of periodic maintenance required to maintain the facility. The owner or his maintenance representative must keep the original of each form at the facility and send a copy to the appropriate FAA regional office at the end of each month in which it is prepared. However, where an FAA approved remote monitoring system is installed which precludes the need for periodic maintenance visits to the facility, monthly reports from the remote monitoring system control point must be forwarded to the appropriate FAA regional office, and a hard copy retained at the control point. 
+(c) Technical Performance Record (FAA Form 6830 (formerly FAA Form 418)). This form contains a record of system parameters as specified in the manufacturer's equipment manual. This data will be recorded on each scheduled visit to the facility. The owner or his maintenance representative shall keep the original of each record at the facility and send a copy of the form to the appropriate FAA regional office.
+
+

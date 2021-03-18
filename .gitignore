@@ -130,3 +130,6 @@ dmypy.json
 
 # Temporary files
 /temp
+
+# TensorBoard logs
+/tb_logs
