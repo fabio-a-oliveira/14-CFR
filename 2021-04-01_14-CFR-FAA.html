@@ -1,13 +1,13 @@
 <html>
 
 <head>
-    <title>Yet more fun with RNNs</title>
+    <title>Generating aviation regulations with RNNs</title>
 </head>
 
 <body>
 
-    <h1>Yet more fun with RNNs</h1>
-    <p>Using a Recurrent Neural Network to generate new text in the style of the FAA's civil aviation regulations</p>
+    <h1>Generating aviation regulations with RNNs</h1>
+    <p>Using a Recurrent Neural Network to generate new text in the style of the US civil aviation regulations</p>
     
     <h2>Introduction</h2>
 
@@ -23,17 +23,19 @@
 
     <h2>Model description</h2>
 
-        <p>This article will not go into details on the hows and whys of RNNs. If you are interested in an explanation and on tons of amusing examples, I can't recommend Andrej Karpathy's blog post enough!</p>
+        <p>This article will not go into details on the hows and whys of RNNs. If you are interested in an explanation and on tons of amusing examples, I can't recommend Andrej Karpathy's <a href="http://karpathy.github.io/2015/05/21/rnn-effectiveness/">The Unreasonable Effectiveness of Recurrent Neural Networks</a> blog post enough!</p>
 
         <p>Nevertheless, here is a high-level description of the model features:</p>
 
             <li>The full set of regulations (over 6 million characters) was divided into a train, a validation and a test set in a 98/2/2% proportion. The partitioning was not insensitive to the text organization: each section of the regulations was saved in its entirety to a single one of the three partitions.</li>
 
-            <li>The model consists of a stack of 3 Gated Recurrent Units with 580 units each, layer normalization and dropout regularization applied to both the memory and the output, followed by a densely connected layer with softmax activation. </li>
+            <li>The model consists of a time-distributed encoding layer using a tokenizer with 116 tokens corresponding to every character found in the training set, followed by a stack of 3 Gated Recurrent Units with 580 units each, layer normalization and dropout regularization applied to both the memory and the output, followed by a densely connected layer with softmax activation. Here is output of the <i>model.summary()</i> method in keras: <br><br> </li>
+
+            <img src="2021-04-01_14-CFR-FAA___model_summary.png" alt="model_summary()" style="width:70%">
+
+            <blockquote><i><b>FIGURE 1.</b> Output of the model.summary() method</i></blockquote>
         
             <li>Optimization is done using the Adam optimizer with Nesterov momentum for 100 epochs, with learning rate reductions every time the loss function reaches a plateau. </li>
-        
-            <li>Before being fed into the GRU stack, inputs are converted into a one-hot encoding via a time-distributed encoding layer, using a tokenizer with 110 tokens corresponding to every character found in the training set. </li>
         
             <li>At each training step, the model is fed with 32 batches of 256-characters-long sequences. </li>
         
@@ -43,7 +45,7 @@
         
             <li>The full model contains a little over 5 million parameters.</li>
 
-        <p>If you want to check the code,  the python implementation can be found here.</p>
+        <p>If you want to check the code, a jupyter notebook with the python implementation can be found <a href="https://github.com/fabio-a-oliveira/14-CFR-FAA/blob/main/14_CFR_FAA.ipynb">here</a>.</p>
 
         <p>Now, let's finally see some examples!</p>
 
@@ -53,7 +55,7 @@
 
         <p>After training the model (took me around 20 hours in a Google Colab session with GPU acceleration), it reaches an accuracy of around 82% in the test set - meaning that it is able to correctly predict the following character 82% of the time in a selection of regulatory text it has not seen during training. For the text it did see during training, accuracy reaches a little over 86%.</p>
 
-        <p>I used the model to generate a sequence of 1 million new characters and saved it to a text file. This corresponds roughly to 1/6 of the total size of the FAA regulations. If you want to have a look and try to find something interesting, you can see the full file here.</p>
+        <p>I used the model to generate a sequence of 1 million new characters and saved it to a text file. This corresponds roughly to 1/6 of the total size of the FAA regulations. If you want to have a look and try to find something interesting, you can <a href="https://raw.githubusercontent.com/fabio-a-oliveira/14-CFR-FAA/main/generated_text/generated_text___1000000_chars__2021-03-27__21-15-26.txt">see the full file here.</a></p>
 
         <p>Here are some highlights:</p>
 
@@ -86,7 +88,7 @@
                 (d) Compliance with this section, This subpart applies to each certificate holder that has been approved by the Administrator. <br>
                 (k) Maintenance and noise limits. This section applies to foreign air carriers or foreign persons holding a turbine-powered/aircraft registered in the United States in command of an aircraft shall, if that person:</i></blockquote>
 
-                <p>The actual § 23.2525 addresses power generation, storage and distribution for small airplanes, while the actual § 33.85 addresses powerplant calibration tests.</p>
+                <p>The actual <a href="https://www.ecfr.gov/cgi-bin/text-idx?SID=dced45d7c9be663e6f1b9a04be026278&mc=true&node=se14.1.23_12525&rgn=div8">§ 23.2525</a> addresses power generation, storage and distribution for normal category airplanes, while the actual <a href="https://www.ecfr.gov/cgi-bin/text-idx?SID=dced45d7c9be663e6f1b9a04be026278&mc=true&node=se14.1.33_185&rgn=div8">§ 33.85</a> addresses powerplant calibration tests.</p>
 
                 <p>The model also also fails to pick up on the ordering patterns: paragraphs should follow the order (a), (b), (c) etc, items should follow (i), (ii), (iii), (iv) etc, but the proper numbering is all over the place in the generated text.</p>
 
@@ -153,7 +155,7 @@
 
         <p>However, I suspect that the pre-trained word embeddings publicly available wouldn't be quite well suited to text of such specialized nature as aviation regulations.</p>
 
-        <p>If you're interested in understanding RNNs in a little more detail or seeing a few other examples of amusing applications, I highly recommend <a href="http://karpathy.github.io/2015/05/21/rnn-effectiveness/">this blog post</a>. In case you want to check out the dataset and have a go at it yourself, you can access it on kaggle <a href="https://www.kaggle.com/fabioaoliveira/14-cfr-faa-2021">at this link</a>. You can also check out my work generating new baroque music in the style of Bach's 4-part chorales <a href="https://fabio-a-oliveira.github.io/2021-03-10_Bach_chorales.html">in this post.</a></p>
+        <p>If you're interested in understanding RNNs in a little more detail or seeing a few other examples of amusing applications, I highly recommend <a href="http://karpathy.github.io/2015/05/21/rnn-effectiveness/">this blog post</a>. If you want to learn how to build this sort of model, <a href="https://www.oreilly.com/library/view/hands-on-machine-learning/9781492032632/">this book</a> is the way to go. In case you want to check out the dataset and have a go at it yourself, you can access it on kaggle <a href="https://www.kaggle.com/fabioaoliveira/14-cfr-faa-2021">at this link</a>. You can also check out my work generating new baroque music in the style of Bach's 4-part chorales <a href="https://fabio-a-oliveira.github.io/2021-03-10_Bach_chorales.html">in this post.</a></p>
 
     <hr>
 
@@ -164,7 +166,6 @@
         <li><a href="http://karpathy.github.io/2015/05/21/rnn-effectiveness/">The Unreasonable Effectiveness of Recurrent Neural Networks</a> - Andrej Karpathy's classic blog post on what are RNN's and what they can do</li>
 
         <li><a href="https://www.oreilly.com/library/view/hands-on-machine-learning/9781492032632/">Hands-on Machine Learning with Scikit-Learn, Keras & Tensorflow</a> - Great book for learning how to implement this sort of model using tensorflow</li>
-
 
 </body>
 
